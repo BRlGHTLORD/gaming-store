@@ -7,15 +7,12 @@
   <style>
     body {
       font-family: Arial, sans-serif;
-      background-color: #f7f7f7;
+      background-color: #f4f4f4;
       margin: 0;
       padding: 20px;
     }
     h1 {
       color: #333;
-    }
-    p {
-      color: #555;
     }
     table {
       width: 100%;
@@ -36,7 +33,7 @@
       height: auto;
     }
     a {
-      color: #2196F3;
+      color: #1e88e5;
       text-decoration: none;
     }
     a:hover {
@@ -46,7 +43,8 @@
 </head>
 <body>
   <h1>Product Dataset</h1>
-  <p>This dataset contains information about products including name, categories, image, pricing, and ratings.</p>
+  <p>This dataset contains product information including name, categories, image, pricing, and ratings.</p>
+  
   <table>
     <thead>
       <tr>
@@ -61,21 +59,86 @@
         <th>Actual Price</th>
       </tr>
     </thead>
-    <tbody>
-      <!-- Example Row: Replace with your actual data -->
-      <tr>
-        <td>Example Product</td>
-        <td>Electronics</td>
-        <td>Mobile Phones</td>
-        <td><img src="https://via.placeholder.com/100" alt="Example Product Image"></td>
-        <td><a href="https://www.amazon.in/example-product" target="_blank">View on Amazon</a></td>
-        <td>4.5</td>
-        <td>1500</td>
-        <td>₹10,999</td>
-        <td>₹12,999</td>
-      </tr>
-      <!-- Add more rows as needed -->
+    <tbody id="productTableBody">
+      <!-- Product rows will be dynamically inserted here -->
     </tbody>
   </table>
+
+  <script>
+    // Change the URL below to the correct URL where your products.json is hosted.
+    const datasetUrl = "https://brlghtlord.github.io/product-dataset/products.json";
+
+    // Function to create a table row for each product
+    function createProductRow(product) {
+      const tr = document.createElement("tr");
+
+      // Create cells for each field
+      const nameCell = document.createElement("td");
+      nameCell.textContent = product.name || product.title || "N/A"; // Adjust based on your dataset field
+      tr.appendChild(nameCell);
+
+      const mainCategoryCell = document.createElement("td");
+      mainCategoryCell.textContent = product.main_category || "N/A";
+      tr.appendChild(mainCategoryCell);
+
+      const subCategoryCell = document.createElement("td");
+      subCategoryCell.textContent = product.sub_category || "N/A";
+      tr.appendChild(subCategoryCell);
+
+      const imageCell = document.createElement("td");
+      const img = document.createElement("img");
+      img.src = product.image || "";
+      img.alt = product.name || "Product Image";
+      imageCell.appendChild(img);
+      tr.appendChild(imageCell);
+
+      const linkCell = document.createElement("td");
+      const a = document.createElement("a");
+      a.href = product.link || "#";
+      a.target = "_blank";
+      a.textContent = "View on Amazon";
+      linkCell.appendChild(a);
+      tr.appendChild(linkCell);
+
+      const ratingsCell = document.createElement("td");
+      ratingsCell.textContent = product.ratings || "N/A";
+      tr.appendChild(ratingsCell);
+
+      const noOfRatingsCell = document.createElement("td");
+      noOfRatingsCell.textContent = product["no of ratings"] || "N/A";
+      tr.appendChild(noOfRatingsCell);
+
+      const discountPriceCell = document.createElement("td");
+      discountPriceCell.textContent = product.discount_price || "N/A";
+      tr.appendChild(discountPriceCell);
+
+      const actualPriceCell = document.createElement("td");
+      actualPriceCell.textContent = product.actual_price || "N/A";
+      tr.appendChild(actualPriceCell);
+
+      return tr;
+    }
+
+    // Fetch the dataset and populate the table
+    fetch(datasetUrl)
+      .then(response => {
+        if (!response.ok) {
+          throw new Error("Network response was not ok " + response.statusText);
+        }
+        return response.json();
+      })
+      .then(data => {
+        const tbody = document.getElementById("productTableBody");
+        // Clear any existing content
+        tbody.innerHTML = "";
+        data.forEach(product => {
+          const row = createProductRow(product);
+          tbody.appendChild(row);
+        });
+      })
+      .catch(error => {
+        console.error("Error fetching dataset:", error);
+      });
+  </script>
 </body>
 </html>
