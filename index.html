@@ -39,6 +39,15 @@
     a:hover {
       text-decoration: underline;
     }
+    #pagination {
+      text-align: center;
+      margin-top: 20px;
+    }
+    #pagination button {
+      padding: 8px 16px;
+      margin: 0 5px;
+      font-size: 16px;
+    }
   </style>
 </head>
 <body>
@@ -63,18 +72,29 @@
       <!-- Product rows will be dynamically inserted here -->
     </tbody>
   </table>
+  
+  <!-- Pagination controls -->
+  <div id="pagination">
+    <button id="prevBtn">Previous</button>
+    <span id="pageInfo"></span>
+    <button id="nextBtn">Next</button>
+  </div>
 
   <script>
-    // Change the URL below to the correct URL where your products.json is hosted.
+    // URL of your hosted JSON dataset
     const datasetUrl = "https://brlghtlord.github.io/product-dataset/products.json";
+    
+    // Global variables for pagination
+    let allProducts = [];
+    let currentPage = 1;
+    const itemsPerPage = 20;
 
-    // Function to create a table row for each product
+    // Function to create a table row for a product
     function createProductRow(product) {
       const tr = document.createElement("tr");
 
-      // Create cells for each field
       const nameCell = document.createElement("td");
-      nameCell.textContent = product.name || product.title || "N/A"; // Adjust based on your dataset field
+      nameCell.textContent = product.name || product.title || "N/A";
       tr.appendChild(nameCell);
 
       const mainCategoryCell = document.createElement("td");
@@ -96,7 +116,7 @@
       const a = document.createElement("a");
       a.href = product.link || "#";
       a.target = "_blank";
-      a.textContent = "View on Amazon";
+      a.textContent = "View";
       linkCell.appendChild(a);
       tr.appendChild(linkCell);
 
@@ -119,7 +139,50 @@
       return tr;
     }
 
-    // Fetch the dataset and populate the table
+    // Function to render a specific page
+    function renderPage(page) {
+      const tbody = document.getElementById("productTableBody");
+      tbody.innerHTML = "";
+      const startIndex = (page - 1) * itemsPerPage;
+      const endIndex = startIndex + itemsPerPage;
+      const pageProducts = allProducts.slice(startIndex, endIndex);
+      
+      pageProducts.forEach(product => {
+        const row = createProductRow(product);
+        tbody.appendChild(row);
+      });
+      
+      // Update page info
+      const totalPages = Math.ceil(allProducts.length / itemsPerPage);
+      document.getElementById("pageInfo").textContent = `Page ${page} of ${totalPages}`;
+    }
+
+    // Function to update pagination button states
+    function updatePaginationButtons() {
+      const totalPages = Math.ceil(allProducts.length / itemsPerPage);
+      document.getElementById("prevBtn").disabled = currentPage === 1;
+      document.getElementById("nextBtn").disabled = currentPage === totalPages;
+    }
+
+    // Event listeners for pagination buttons
+    document.getElementById("prevBtn").addEventListener("click", function(){
+      if(currentPage > 1) {
+        currentPage--;
+        renderPage(currentPage);
+        updatePaginationButtons();
+      }
+    });
+
+    document.getElementById("nextBtn").addEventListener("click", function(){
+      const totalPages = Math.ceil(allProducts.length / itemsPerPage);
+      if(currentPage < totalPages) {
+        currentPage++;
+        renderPage(currentPage);
+        updatePaginationButtons();
+      }
+    });
+
+    // Fetch the dataset and initialize pagination
     fetch(datasetUrl)
       .then(response => {
         if (!response.ok) {
@@ -128,13 +191,9 @@
         return response.json();
       })
       .then(data => {
-        const tbody = document.getElementById("productTableBody");
-        // Clear any existing content
-        tbody.innerHTML = "";
-        data.forEach(product => {
-          const row = createProductRow(product);
-          tbody.appendChild(row);
-        });
+        allProducts = data;
+        renderPage(currentPage);
+        updatePaginationButtons();
       })
       .catch(error => {
         console.error("Error fetching dataset:", error);
