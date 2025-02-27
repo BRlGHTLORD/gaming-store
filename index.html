@@ -14,6 +14,14 @@
     h1 {
       color: #333;
     }
+    #controls {
+      margin-bottom: 20px;
+    }
+    #controls input, #controls select {
+      padding: 8px;
+      margin-right: 10px;
+      font-size: 16px;
+    }
     table {
       width: 100%;
       border-collapse: collapse;
@@ -52,7 +60,22 @@
 </head>
 <body>
   <h1>Product Dataset</h1>
-  <p>This dataset contains product information including name, categories, image, pricing, and ratings.</p>
+  <div id="controls">
+    <input type="text" id="searchInput" placeholder="Search products...">
+    <select id="filterSelect">
+      <option value="">All Categories</option>
+      <!-- You can add more categories as needed -->
+      <option value="Electronics">Electronics</option>
+      <option value="Fashion">Fashion</option>
+      <option value="Home">Home</option>
+    </select>
+    <select id="sortSelect">
+      <option value="">Sort By</option>
+      <option value="priceAsc">Price: Low to High</option>
+      <option value="priceDesc">Price: High to Low</option>
+      <option value="ratingDesc">Rating: High to Low</option>
+    </select>
+  </div>
   
   <table>
     <thead>
@@ -69,7 +92,7 @@
       </tr>
     </thead>
     <tbody id="productTableBody">
-      <!-- Product rows will be dynamically inserted here -->
+      <!-- Product rows will be inserted here -->
     </tbody>
   </table>
   
@@ -81,13 +104,21 @@
   </div>
 
   <script>
-    // URL of your hosted JSON dataset
+    // URL of your hosted JSON dataset (adjust as necessary)
     const datasetUrl = "https://brlghtlord.github.io/product-dataset/products.json";
     
-    // Global variables for pagination
     let allProducts = [];
     let currentPage = 1;
     const itemsPerPage = 20;
+    
+    // Elements for controls
+    const searchInput = document.getElementById("searchInput");
+    const filterSelect = document.getElementById("filterSelect");
+    const sortSelect = document.getElementById("sortSelect");
+    const productTableBody = document.getElementById("productTableBody");
+    const prevBtn = document.getElementById("prevBtn");
+    const nextBtn = document.getElementById("nextBtn");
+    const pageInfo = document.getElementById("pageInfo");
 
     // Function to create a table row for a product
     function createProductRow(product) {
@@ -139,33 +170,84 @@
       return tr;
     }
 
+    // Function to filter and sort products based on controls
+    function filterAndSortProducts() {
+      let filtered = allProducts;
+      
+      // Filter by search term
+      const searchTerm = searchInput.value.trim().toLowerCase();
+      if (searchTerm) {
+        filtered = filtered.filter(p =>
+          (p.name || p.title || "").toLowerCase().includes(searchTerm)
+        );
+      }
+      
+      // Filter by category (main_category)
+      const selectedCategory = filterSelect.value;
+      if (selectedCategory) {
+        filtered = filtered.filter(p => (p.main_category || "").toLowerCase() === selectedCategory.toLowerCase());
+      }
+      
+      // Sort based on selected option
+      const sortOption = sortSelect.value;
+      if (sortOption === "priceAsc") {
+        filtered = filtered.sort((a, b) => parseFloat(a.discount_price || "0") - parseFloat(b.discount_price || "0"));
+      } else if (sortOption === "priceDesc") {
+        filtered = filtered.sort((a, b) => parseFloat(b.discount_price || "0") - parseFloat(a.discount_price || "0"));
+      } else if (sortOption === "ratingDesc") {
+        filtered = filtered.sort((a, b) => parseFloat(b.ratings || "0") - parseFloat(a.ratings || "0"));
+      }
+      
+      return filtered;
+    }
+
     // Function to render a specific page
     function renderPage(page) {
-      const tbody = document.getElementById("productTableBody");
-      tbody.innerHTML = "";
+      const products = filterAndSortProducts();
+      productTableBody.innerHTML = "";
       const startIndex = (page - 1) * itemsPerPage;
       const endIndex = startIndex + itemsPerPage;
-      const pageProducts = allProducts.slice(startIndex, endIndex);
+      const pageProducts = products.slice(startIndex, endIndex);
       
       pageProducts.forEach(product => {
         const row = createProductRow(product);
-        tbody.appendChild(row);
+        productTableBody.appendChild(row);
       });
       
       // Update page info
-      const totalPages = Math.ceil(allProducts.length / itemsPerPage);
-      document.getElementById("pageInfo").textContent = `Page ${page} of ${totalPages}`;
+      const totalPages = Math.ceil(products.length / itemsPerPage);
+      pageInfo.textContent = `Page ${page} of ${totalPages}`;
     }
 
     // Function to update pagination button states
     function updatePaginationButtons() {
-      const totalPages = Math.ceil(allProducts.length / itemsPerPage);
-      document.getElementById("prevBtn").disabled = currentPage === 1;
-      document.getElementById("nextBtn").disabled = currentPage === totalPages;
+      const products = filterAndSortProducts();
+      const totalPages = Math.ceil(products.length / itemsPerPage);
+      prevBtn.disabled = currentPage === 1;
+      nextBtn.disabled = currentPage === totalPages || totalPages === 0;
     }
 
+    // Event listeners for controls
+    searchInput.addEventListener("input", function() {
+      currentPage = 1;
+      renderPage(currentPage);
+      updatePaginationButtons();
+    });
+
+    filterSelect.addEventListener("change", function() {
+      currentPage = 1;
+      renderPage(currentPage);
+      updatePaginationButtons();
+    });
+
+    sortSelect.addEventListener("change", function() {
+      currentPage = 1;
+      renderPage(currentPage);
+      updatePaginationButtons();
+    });
+
     // Event listeners for pagination buttons
-    document.getElementById("prevBtn").addEventListener("click", function(){
+    prevBtn.addEventListener("click", function(){
       if(currentPage > 1) {
         currentPage--;
         renderPage(currentPage);
@@ -173,8 +255,9 @@
       }
     });
 
-    document.getElementById("nextBtn").addEventListener("click", function(){
-      const totalPages = Math.ceil(allProducts.length / itemsPerPage);
+    nextBtn.addEventListener("click", function(){
+      const products = filterAndSortProducts();
+      const totalPages = Math.ceil(products.length / itemsPerPage);
       if(currentPage < totalPages) {
         currentPage++;
         renderPage(currentPage);
