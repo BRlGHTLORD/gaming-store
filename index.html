@@ -276,9 +276,33 @@
       })
       .then(data => {
         console.log("Fetched data:", data); // Debug log to check dataset
-        allProducts = data;
-        renderPage(currentPage);
-        updatePaginationButtons();
+        allProducts = [
+  {
+    "name": "Test Product 1",
+    "main_category": "Electronics",
+    "sub_category": "Mobile Phones",
+    "image": "https://via.placeholder.com/100",
+    "link": "https://amazon.in/product1",
+    "ratings": 4.5,
+    "no_of_ratings": "100",
+    "discount_price": "₹599",
+    "actual_price": "₹1,245"
+  },
+  {
+    "name": "Test Product 2",
+    "main_category": "Fashion",
+    "sub_category": "Shirts",
+    "image": "https://via.placeholder.com/100",
+    "link": "https://amazon.in/product2",
+    "ratings": 4.0,
+    "no_of_ratings": "50",
+    "discount_price": "₹299",
+    "actual_price": "₹399"
+  }
+];
+renderPage(currentPage);
+updatePaginationButtons();
+
       })
       .catch(error => {
         console.error("Error fetching dataset:", error);
