@@ -1,0 +1,4502 @@
+[
+    {
+        "name": "God of War: Ragnarok 9",
+        "main_category": "RPG",
+        "sub_category": "Fantasy",
+        "image": "https://example.com/game_0.jpg",
+        "ratings": 4.4,
+        "no_of_ratings": 10802,
+        "price": 30.04
+    },
+    {
+        "name": "Elden Ring 1",
+        "main_category": "Horror",
+        "sub_category": "Zombie",
+        "image": "https://example.com/game_1.jpg",
+        "ratings": 3.5,
+        "no_of_ratings": 24244,
+        "price": 26.71
+    },
+    {
+        "name": "Forza Horizon 5 5",
+        "main_category": "Action",
+        "sub_category": "Adventure",
+        "image": "https://example.com/game_2.jpg",
+        "ratings": 4.0,
+        "no_of_ratings": 25077,
+        "price": 49.99
+    },
+    {
+        "name": "Assassin's Creed Valhalla 5",
+        "main_category": "Action",
+        "sub_category": "Hack and Slash",
+        "image": "https://example.com/game_3.jpg",
+        "ratings": 4.1,
+        "no_of_ratings": 15474,
+        "price": 27.98
+    },
+    {
+        "name": "Ghost of Tsushima 3",
+        "main_category": "Horror",
+        "sub_category": "Survival",
+        "image": "https://example.com/game_4.jpg",
+        "ratings": 3.7,
+        "no_of_ratings": 6120,
+        "price": 32.2
+    },
+    {
+        "name": "Elden Ring 4",
+        "main_category": "Adventure",
+        "sub_category": "Puzzle",
+        "image": "https://example.com/game_5.jpg",
+        "ratings": 4.3,
+        "no_of_ratings": 32775,
+        "price": 37.34
+    },
+    {
+        "name": "GTA V 6",
+        "main_category": "Horror",
+        "sub_category": "Psychological",
+        "image": "https://example.com/game_6.jpg",
+        "ratings": 3.6,
+        "no_of_ratings": 20521,
+        "price": 68.44
+    },
+    {
+        "name": "The Witcher 3: Wild Hunt 1",
+        "main_category": "Action",
+        "sub_category": "Adventure",
+        "image": "https://example.com/game_7.jpg",
+        "ratings": 4.7,
+        "no_of_ratings": 19174,
+        "price": 49.96
+    },
+    {
+        "name": "Sekiro: Shadows Die Twice 3",
+        "main_category": "Adventure",
+        "sub_category": "Survival",
+        "image": "https://example.com/game_8.jpg",
+        "ratings": 3.7,
+        "no_of_ratings": 12650,
+        "price": 55.12
+    },
+    {
+        "name": "Doom Eternal 5",
+        "main_category": "Adventure",
+        "sub_category": "Survival",
+        "image": "https://example.com/game_9.jpg",
+        "ratings": 4.9,
+        "no_of_ratings": 23898,
+        "price": 37.98
+    },
+    {
+        "name": "Final Fantasy XVI 1",
+        "main_category": "Action",
+        "sub_category": "Adventure",
+        "image": "https://example.com/game_10.jpg",
+        "ratings": 4.1,
+        "no_of_ratings": 13522,
+        "price": 22.73
+    },
+    {
+        "name": "The Legend of Zelda: Breath of the Wild 3",
+        "main_category": "Action",
+        "sub_category": "Hack and Slash",
+        "image": "https://example.com/game_11.jpg",
+        "ratings": 4.9,
+        "no_of_ratings": 47658,
+        "price": 47.91
+    },
+    {
+        "name": "Dark Souls III 4",
+        "main_category": "RPG",
+        "sub_category": "Fantasy",
+        "image": "https://example.com/game_12.jpg",
+        "ratings": 4.6,
+        "no_of_ratings": 38961,
+        "price": 58.3
+    },
+    {
+        "name": "Assassin's Creed Valhalla 6",
+        "main_category": "Racing",
+        "sub_category": "Off-Road",
+        "image": "https://example.com/game_13.jpg",
+        "ratings": 4.0,
+        "no_of_ratings": 15316,
+        "price": 39.7
+    },
+    {
+        "name": "God of War: Ragnarok 10",
+        "main_category": "Adventure",
+        "sub_category": "Exploration",
+        "image": "https://example.com/game_14.jpg",
+        "ratings": 4.4,
+        "no_of_ratings": 36802,
+        "price": 42.19
+    },
+    {
+        "name": "Elden Ring 10",
+        "main_category": "Horror",
+        "sub_category": "Psychological",
+        "image": "https://example.com/game_15.jpg",
+        "ratings": 3.6,
+        "no_of_ratings": 48662,
+        "price": 46.0
+    },
+    {
+        "name": "Ghost of Tsushima 9",
+        "main_category": "Adventure",
+        "sub_category": "Puzzle",
+        "image": "https://example.com/game_16.jpg",
+        "ratings": 3.7,
+        "no_of_ratings": 34137,
+        "price": 66.2
+    },
+    {
+        "name": "Final Fantasy XVI 4",
+        "main_category": "Action",
+        "sub_category": "Fighting",
+        "image": "https://example.com/game_17.jpg",
+        "ratings": 3.6,
+        "no_of_ratings": 16459,
+        "price": 52.85
+    },
+    {
+        "name": "Elden Ring 2",
+        "main_category": "RPG",
+        "sub_category": "Sci-Fi",
+        "image": "https://example.com/game_18.jpg",
+        "ratings": 4.6,
+        "no_of_ratings": 45452,
+        "price": 50.86
+    },
+    {
+        "name": "Ghost of Tsushima 3",
+        "main_category": "Shooter",
+        "sub_category": "First-Person",
+        "image": "https://example.com/game_19.jpg",
+        "ratings": 3.9,
+        "no_of_ratings": 33736,
+        "price": 21.33
+    },
+    {
+        "name": "Doom Eternal 6",
+        "main_category": "Action",
+        "sub_category": "Adventure",
+        "image": "https://example.com/game_20.jpg",
+        "ratings": 4.2,
+        "no_of_ratings": 34698,
+        "price": 30.01
+    },
+    {
+        "name": "Final Fantasy XVI 2",
+        "main_category": "RPG",
+        "sub_category": "Fantasy",
+        "image": "https://example.com/game_21.jpg",
+        "ratings": 4.6,
+        "no_of_ratings": 10483,
+        "price": 52.32
+    },
+    {
+        "name": "Dark Souls III 4",
+        "main_category": "Adventure",
+        "sub_category": "Survival",
+        "image": "https://example.com/game_22.jpg",
+        "ratings": 4.9,
+        "no_of_ratings": 6320,
+        "price": 49.66
+    },
+    {
+        "name": "God of War: Ragnarok 7",
+        "main_category": "Horror",
+        "sub_category": "Zombie",
+        "image": "https://example.com/game_23.jpg",
+        "ratings": 3.8,
+        "no_of_ratings": 49841,
+        "price": 51.68
+    },
+    {
+        "name": "Forza Horizon 5 5",
+        "main_category": "Racing",
+        "sub_category": "Off-Road",
+        "image": "https://example.com/game_24.jpg",
+        "ratings": 4.9,
+        "no_of_ratings": 30422,
+        "price": 49.08
+    },
+    {
+        "name": "Assassin's Creed Valhalla 3",
+        "main_category": "Racing",
+        "sub_category": "Simulation",
+        "image": "https://example.com/game_25.jpg",
+        "ratings": 4.9,
+        "no_of_ratings": 36683,
+        "price": 37.9
+    },
+    {
+        "name": "Assassin's Creed Valhalla 8",
+        "main_category": "Action",
+        "sub_category": "Adventure",
+        "image": "https://example.com/game_26.jpg",
+        "ratings": 4.6,
+        "no_of_ratings": 4649,
+        "price": 28.99
+    },
+    {
+        "name": "GTA V 2",
+        "main_category": "Racing",
+        "sub_category": "Arcade",
+        "image": "https://example.com/game_27.jpg",
+        "ratings": 3.6,
+        "no_of_ratings": 17745,
+        "price": 48.89
+    },
+    {
+        "name": "Halo Infinite 5",
+        "main_category": "Adventure",
+        "sub_category": "Puzzle",
+        "image": "https://example.com/game_28.jpg",
+        "ratings": 3.6,
+        "no_of_ratings": 37971,
+        "price": 42.36
+    },
+    {
+        "name": "Cyberpunk 2077 10",
+        "main_category": "RPG",
+        "sub_category": "Fantasy",
+        "image": "https://example.com/game_29.jpg",
+        "ratings": 4.8,
+        "no_of_ratings": 39924,
+        "price": 65.03
+    },
+    {
+        "name": "Ghost of Tsushima 8",
+        "main_category": "Adventure",
+        "sub_category": "Survival",
+        "image": "https://example.com/game_30.jpg",
+        "ratings": 4.6,
+        "no_of_ratings": 39170,
+        "price": 44.08
+    },
+    {
+        "name": "Cyberpunk 2077 8",
+        "main_category": "Shooter",
+        "sub_category": "Battle Royale",
+        "image": "https://example.com/game_31.jpg",
+        "ratings": 4.1,
+        "no_of_ratings": 23949,
+        "price": 33.96
+    },
+    {
+        "name": "GTA V 10",
+        "main_category": "Shooter",
+        "sub_category": "First-Person",
+        "image": "https://example.com/game_32.jpg",
+        "ratings": 3.6,
+        "no_of_ratings": 18869,
+        "price": 25.78
+    },
+    {
+        "name": "Halo Infinite 10",
+        "main_category": "Racing",
+        "sub_category": "Off-Road",
+        "image": "https://example.com/game_33.jpg",
+        "ratings": 5.0,
+        "no_of_ratings": 43309,
+        "price": 51.68
+    },
+    {
+        "name": "Assassin's Creed Valhalla 1",
+        "main_category": "Action",
+        "sub_category": "Hack and Slash",
+        "image": "https://example.com/game_34.jpg",
+        "ratings": 3.6,
+        "no_of_ratings": 20658,
+        "price": 52.35
+    },
+    {
+        "name": "Sekiro: Shadows Die Twice 7",
+        "main_category": "Horror",
+        "sub_category": "Psychological",
+        "image": "https://example.com/game_35.jpg",
+        "ratings": 4.3,
+        "no_of_ratings": 25585,
+        "price": 32.25
+    },
+    {
+        "name": "Bloodborne 2",
+        "main_category": "Racing",
+        "sub_category": "Off-Road",
+        "image": "https://example.com/game_36.jpg",
+        "ratings": 4.7,
+        "no_of_ratings": 9261,
+        "price": 23.51
+    },
+    {
+        "name": "Bloodborne 6",
+        "main_category": "Horror",
+        "sub_category": "Zombie",
+        "image": "https://example.com/game_37.jpg",
+        "ratings": 3.9,
+        "no_of_ratings": 8689,
+        "price": 57.66
+    },
+    {
+        "name": "Cyberpunk 2077 9",
+        "main_category": "Shooter",
+        "sub_category": "Third-Person",
+        "image": "https://example.com/game_38.jpg",
+        "ratings": 4.9,
+        "no_of_ratings": 9071,
+        "price": 50.29
+    },
+    {
+        "name": "God of War: Ragnarok 6",
+        "main_category": "RPG",
+        "sub_category": "Sci-Fi",
+        "image": "https://example.com/game_39.jpg",
+        "ratings": 4.0,
+        "no_of_ratings": 18725,
+        "price": 38.22
+    },
+    {
+        "name": "Horizon Forbidden West 5",
+        "main_category": "Racing",
+        "sub_category": "Arcade",
+        "image": "https://example.com/game_40.jpg",
+        "ratings": 4.5,
+        "no_of_ratings": 15884,
+        "price": 41.24
+    },
+    {
+        "name": "The Witcher 3: Wild Hunt 9",
+        "main_category": "Action",
+        "sub_category": "Fighting",
+        "image": "https://example.com/game_41.jpg",
+        "ratings": 4.9,
+        "no_of_ratings": 32368,
+        "price": 57.23
+    },
+    {
+        "name": "Spider-Man: Miles Morales 6",
+        "main_category": "Adventure",
+        "sub_category": "Survival",
+        "image": "https://example.com/game_42.jpg",
+        "ratings": 4.1,
+        "no_of_ratings": 47912,
+        "price": 21.71
+    },
+    {
+        "name": "Doom Eternal 8",
+        "main_category": "Action",
+        "sub_category": "Hack and Slash",
+        "image": "https://example.com/game_43.jpg",
+        "ratings": 4.2,
+        "no_of_ratings": 27406,
+        "price": 48.49
+    },
+    {
+        "name": "Ghost of Tsushima 6",
+        "main_category": "RPG",
+        "sub_category": "Fantasy",
+        "image": "https://example.com/game_44.jpg",
+        "ratings": 3.8,
+        "no_of_ratings": 3028,
+        "price": 68.42
+    },
+    {
+        "name": "Final Fantasy XVI 3",
+        "main_category": "RPG",
+        "sub_category": "Open World",
+        "image": "https://example.com/game_45.jpg",
+        "ratings": 4.6,
+        "no_of_ratings": 15254,
+        "price": 35.05
+    },
+    {
+        "name": "Final Fantasy XVI 5",
+        "main_category": "Action",
+        "sub_category": "Fighting",
+        "image": "https://example.com/game_46.jpg",
+        "ratings": 4.3,
+        "no_of_ratings": 1441,
+        "price": 27.86
+    },
+    {
+        "name": "Bloodborne 2",
+        "main_category": "Action",
+        "sub_category": "Adventure",
+        "image": "https://example.com/game_47.jpg",
+        "ratings": 4.9,
+        "no_of_ratings": 40661,
+        "price": 41.3
+    },
+    {
+        "name": "GTA V 2",
+        "main_category": "Racing",
+        "sub_category": "Off-Road",
+        "image": "https://example.com/game_48.jpg",
+        "ratings": 5.0,
+        "no_of_ratings": 40441,
+        "price": 33.94
+    },
+    {
+        "name": "The Legend of Zelda: Breath of the Wild 9",
+        "main_category": "Action",
+        "sub_category": "Fighting",
+        "image": "https://example.com/game_49.jpg",
+        "ratings": 4.1,
+        "no_of_ratings": 48158,
+        "price": 56.71
+    },
+    {
+        "name": "Sekiro: Shadows Die Twice 4",
+        "main_category": "Racing",
+        "sub_category": "Arcade",
+        "image": "https://example.com/game_50.jpg",
+        "ratings": 3.7,
+        "no_of_ratings": 42876,
+        "price": 46.42
+    },
+    {
+        "name": "Final Fantasy XVI 8",
+        "main_category": "Racing",
+        "sub_category": "Arcade",
+        "image": "https://example.com/game_51.jpg",
+        "ratings": 4.0,
+        "no_of_ratings": 15866,
+        "price": 48.75
+    },
+    {
+        "name": "Star Wars Jedi: Survivor 9",
+        "main_category": "RPG",
+        "sub_category": "Sci-Fi",
+        "image": "https://example.com/game_52.jpg",
+        "ratings": 3.7,
+        "no_of_ratings": 5171,
+        "price": 56.4
+    },
+    {
+        "name": "The Legend of Zelda: Breath of the Wild 6",
+        "main_category": "Shooter",
+        "sub_category": "First-Person",
+        "image": "https://example.com/game_53.jpg",
+        "ratings": 3.6,
+        "no_of_ratings": 34753,
+        "price": 29.66
+    },
+    {
+        "name": "Ghost of Tsushima 2",
+        "main_category": "Horror",
+        "sub_category": "Survival",
+        "image": "https://example.com/game_54.jpg",
+        "ratings": 3.7,
+        "no_of_ratings": 22548,
+        "price": 22.26
+    },
+    {
+        "name": "The Legend of Zelda: Breath of the Wild 7",
+        "main_category": "Racing",
+        "sub_category": "Off-Road",
+        "image": "https://example.com/game_55.jpg",
+        "ratings": 4.0,
+        "no_of_ratings": 25602,
+        "price": 42.84
+    },
+    {
+        "name": "Ghost of Tsushima 4",
+        "main_category": "RPG",
+        "sub_category": "Open World",
+        "image": "https://example.com/game_56.jpg",
+        "ratings": 4.9,
+        "no_of_ratings": 46556,
+        "price": 66.78
+    },
+    {
+        "name": "Dark Souls III 7",
+        "main_category": "Adventure",
+        "sub_category": "Exploration",
+        "image": "https://example.com/game_57.jpg",
+        "ratings": 4.3,
+        "no_of_ratings": 17898,
+        "price": 29.77
+    },
+    {
+        "name": "Star Wars Jedi: Survivor 3",
+        "main_category": "Horror",
+        "sub_category": "Zombie",
+        "image": "https://example.com/game_58.jpg",
+        "ratings": 4.3,
+        "no_of_ratings": 5835,
+        "price": 49.1
+    },
+    {
+        "name": "Sekiro: Shadows Die Twice 10",
+        "main_category": "Horror",
+        "sub_category": "Psychological",
+        "image": "https://example.com/game_59.jpg",
+        "ratings": 4.7,
+        "no_of_ratings": 5419,
+        "price": 55.33
+    },
+    {
+        "name": "Resident Evil 4 Remake 8",
+        "main_category": "Racing",
+        "sub_category": "Off-Road",
+        "image": "https://example.com/game_60.jpg",
+        "ratings": 3.8,
+        "no_of_ratings": 13529,
+        "price": 28.86
+    },
+    {
+        "name": "Assassin's Creed Valhalla 6",
+        "main_category": "Racing",
+        "sub_category": "Simulation",
+        "image": "https://example.com/game_61.jpg",
+        "ratings": 4.5,
+        "no_of_ratings": 6880,
+        "price": 22.41
+    },
+    {
+        "name": "Cyberpunk 2077 4",
+        "main_category": "RPG",
+        "sub_category": "Fantasy",
+        "image": "https://example.com/game_62.jpg",
+        "ratings": 4.8,
+        "no_of_ratings": 26747,
+        "price": 54.28
+    },
+    {
+        "name": "Ghost of Tsushima 5",
+        "main_category": "Horror",
+        "sub_category": "Zombie",
+        "image": "https://example.com/game_63.jpg",
+        "ratings": 4.1,
+        "no_of_ratings": 19994,
+        "price": 26.37
+    },
+    {
+        "name": "Bloodborne 7",
+        "main_category": "Adventure",
+        "sub_category": "Survival",
+        "image": "https://example.com/game_64.jpg",
+        "ratings": 3.9,
+        "no_of_ratings": 15855,
+        "price": 55.73
+    },
+    {
+        "name": "GTA V 4",
+        "main_category": "Action",
+        "sub_category": "Fighting",
+        "image": "https://example.com/game_65.jpg",
+        "ratings": 3.7,
+        "no_of_ratings": 43978,
+        "price": 66.61
+    },
+    {
+        "name": "The Witcher 3: Wild Hunt 5",
+        "main_category": "Action",
+        "sub_category": "Hack and Slash",
+        "image": "https://example.com/game_66.jpg",
+        "ratings": 4.9,
+        "no_of_ratings": 14229,
+        "price": 68.43
+    },
+    {
+        "name": "GTA V 2",
+        "main_category": "Horror",
+        "sub_category": "Psychological",
+        "image": "https://example.com/game_67.jpg",
+        "ratings": 4.7,
+        "no_of_ratings": 6631,
+        "price": 23.03
+    },
+    {
+        "name": "Final Fantasy XVI 3",
+        "main_category": "Horror",
+        "sub_category": "Survival",
+        "image": "https://example.com/game_68.jpg",
+        "ratings": 4.8,
+        "no_of_ratings": 7018,
+        "price": 56.99
+    },
+    {
+        "name": "Final Fantasy XVI 2",
+        "main_category": "Adventure",
+        "sub_category": "Survival",
+        "image": "https://example.com/game_69.jpg",
+        "ratings": 4.4,
+        "no_of_ratings": 29308,
+        "price": 25.56
+    },
+    {
+        "name": "Dark Souls III 4",
+        "main_category": "RPG",
+        "sub_category": "Sci-Fi",
+        "image": "https://example.com/game_70.jpg",
+        "ratings": 4.8,
+        "no_of_ratings": 44211,
+        "price": 28.5
+    },
+    {
+        "name": "Assassin's Creed Valhalla 3",
+        "main_category": "Action",
+        "sub_category": "Hack and Slash",
+        "image": "https://example.com/game_71.jpg",
+        "ratings": 4.3,
+        "no_of_ratings": 27669,
+        "price": 61.79
+    },
+    {
+        "name": "Red Dead Redemption 2 4",
+        "main_category": "Shooter",
+        "sub_category": "Third-Person",
+        "image": "https://example.com/game_72.jpg",
+        "ratings": 4.0,
+        "no_of_ratings": 26462,
+        "price": 51.71
+    },
+    {
+        "name": "Ghost of Tsushima 8",
+        "main_category": "Action",
+        "sub_category": "Hack and Slash",
+        "image": "https://example.com/game_73.jpg",
+        "ratings": 4.5,
+        "no_of_ratings": 2842,
+        "price": 46.96
+    },
+    {
+        "name": "Sekiro: Shadows Die Twice 7",
+        "main_category": "RPG",
+        "sub_category": "Sci-Fi",
+        "image": "https://example.com/game_74.jpg",
+        "ratings": 3.7,
+        "no_of_ratings": 42863,
+        "price": 40.35
+    },
+    {
+        "name": "Cyberpunk 2077 5",
+        "main_category": "Racing",
+        "sub_category": "Arcade",
+        "image": "https://example.com/game_75.jpg",
+        "ratings": 4.6,
+        "no_of_ratings": 42374,
+        "price": 60.81
+    },
+    {
+        "name": "Cyberpunk 2077 4",
+        "main_category": "Shooter",
+        "sub_category": "Third-Person",
+        "image": "https://example.com/game_76.jpg",
+        "ratings": 4.6,
+        "no_of_ratings": 27246,
+        "price": 41.41
+    },
+    {
+        "name": "GTA V 4",
+        "main_category": "Shooter",
+        "sub_category": "First-Person",
+        "image": "https://example.com/game_77.jpg",
+        "ratings": 4.9,
+        "no_of_ratings": 34721,
+        "price": 58.08
+    },
+    {
+        "name": "Star Wars Jedi: Survivor 1",
+        "main_category": "Action",
+        "sub_category": "Fighting",
+        "image": "https://example.com/game_78.jpg",
+        "ratings": 3.9,
+        "no_of_ratings": 15343,
+        "price": 42.13
+    },
+    {
+        "name": "Bloodborne 10",
+        "main_category": "Adventure",
+        "sub_category": "Puzzle",
+        "image": "https://example.com/game_79.jpg",
+        "ratings": 3.5,
+        "no_of_ratings": 45676,
+        "price": 21.95
+    },
+    {
+        "name": "God of War: Ragnarok 1",
+        "main_category": "Horror",
+        "sub_category": "Survival",
+        "image": "https://example.com/game_80.jpg",
+        "ratings": 3.5,
+        "no_of_ratings": 22791,
+        "price": 48.09
+    },
+    {
+        "name": "Sekiro: Shadows Die Twice 6",
+        "main_category": "Adventure",
+        "sub_category": "Survival",
+        "image": "https://example.com/game_81.jpg",
+        "ratings": 4.3,
+        "no_of_ratings": 9733,
+        "price": 41.65
+    },
+    {
+        "name": "Horizon Forbidden West 7",
+        "main_category": "Horror",
+        "sub_category": "Survival",
+        "image": "https://example.com/game_82.jpg",
+        "ratings": 4.5,
+        "no_of_ratings": 47769,
+        "price": 27.11
+    },
+    {
+        "name": "Final Fantasy XVI 8",
+        "main_category": "Horror",
+        "sub_category": "Psychological",
+        "image": "https://example.com/game_83.jpg",
+        "ratings": 4.8,
+        "no_of_ratings": 43974,
+        "price": 35.23
+    },
+    {
+        "name": "God of War: Ragnarok 2",
+        "main_category": "Horror",
+        "sub_category": "Zombie",
+        "image": "https://example.com/game_84.jpg",
+        "ratings": 4.8,
+        "no_of_ratings": 42163,
+        "price": 52.43
+    },
+    {
+        "name": "God of War: Ragnarok 9",
+        "main_category": "RPG",
+        "sub_category": "Sci-Fi",
+        "image": "https://example.com/game_85.jpg",
+        "ratings": 3.5,
+        "no_of_ratings": 6668,
+        "price": 68.94
+    },
+    {
+        "name": "Star Wars Jedi: Survivor 9",
+        "main_category": "Action",
+        "sub_category": "Fighting",
+        "image": "https://example.com/game_86.jpg",
+        "ratings": 4.6,
+        "no_of_ratings": 36476,
+        "price": 20.41
+    },
+    {
+        "name": "The Legend of Zelda: Breath of the Wild 7",
+        "main_category": "Adventure",
+        "sub_category": "Puzzle",
+        "image": "https://example.com/game_87.jpg",
+        "ratings": 3.9,
+        "no_of_ratings": 4974,
+        "price": 62.84
+    },
+    {
+        "name": "Bloodborne 1",
+        "main_category": "Racing",
+        "sub_category": "Off-Road",
+        "image": "https://example.com/game_88.jpg",
+        "ratings": 4.9,
+        "no_of_ratings": 19505,
+        "price": 61.68
+    },
+    {
+        "name": "Doom Eternal 4",
+        "main_category": "Racing",
+        "sub_category": "Simulation",
+        "image": "https://example.com/game_89.jpg",
+        "ratings": 4.2,
+        "no_of_ratings": 44986,
+        "price": 51.23
+    },
+    {
+        "name": "Halo Infinite 9",
+        "main_category": "Racing",
+        "sub_category": "Arcade",
+        "image": "https://example.com/game_90.jpg",
+        "ratings": 4.3,
+        "no_of_ratings": 41255,
+        "price": 48.54
+    },
+    {
+        "name": "Sekiro: Shadows Die Twice 1",
+        "main_category": "Horror",
+        "sub_category": "Zombie",
+        "image": "https://example.com/game_91.jpg",
+        "ratings": 4.3,
+        "no_of_ratings": 46089,
+        "price": 21.31
+    },
+    {
+        "name": "God of War: Ragnarok 5",
+        "main_category": "Adventure",
+        "sub_category": "Exploration",
+        "image": "https://example.com/game_92.jpg",
+        "ratings": 3.6,
+        "no_of_ratings": 25967,
+        "price": 47.53
+    },
+    {
+        "name": "Star Wars Jedi: Survivor 3",
+        "main_category": "Horror",
+        "sub_category": "Psychological",
+        "image": "https://example.com/game_93.jpg",
+        "ratings": 4.7,
+        "no_of_ratings": 5769,
+        "price": 63.13
+    },
+    {
+        "name": "Bloodborne 2",
+        "main_category": "Horror",
+        "sub_category": "Zombie",
+        "image": "https://example.com/game_94.jpg",
+        "ratings": 4.8,
+        "no_of_ratings": 17259,
+        "price": 38.55
+    },
+    {
+        "name": "Star Wars Jedi: Survivor 2",
+        "main_category": "RPG",
+        "sub_category": "Sci-Fi",
+        "image": "https://example.com/game_95.jpg",
+        "ratings": 3.6,
+        "no_of_ratings": 26155,
+        "price": 23.75
+    },
+    {
+        "name": "Elden Ring 10",
+        "main_category": "RPG",
+        "sub_category": "Sci-Fi",
+        "image": "https://example.com/game_96.jpg",
+        "ratings": 4.4,
+        "no_of_ratings": 9411,
+        "price": 42.04
+    },
+    {
+        "name": "Assassin's Creed Valhalla 7",
+        "main_category": "Shooter",
+        "sub_category": "Battle Royale",
+        "image": "https://example.com/game_97.jpg",
+        "ratings": 4.8,
+        "no_of_ratings": 2566,
+        "price": 37.96
+    },
+    {
+        "name": "Sekiro: Shadows Die Twice 2",
+        "main_category": "RPG",
+        "sub_category": "Open World",
+        "image": "https://example.com/game_98.jpg",
+        "ratings": 3.7,
+        "no_of_ratings": 23663,
+        "price": 60.93
+    },
+    {
+        "name": "Resident Evil 4 Remake 10",
+        "main_category": "Horror",
+        "sub_category": "Survival",
+        "image": "https://example.com/game_99.jpg",
+        "ratings": 4.5,
+        "no_of_ratings": 2536,
+        "price": 45.81
+    },
+    {
+        "name": "Halo Infinite 8",
+        "main_category": "Shooter",
+        "sub_category": "First-Person",
+        "image": "https://example.com/game_100.jpg",
+        "ratings": 4.1,
+        "no_of_ratings": 42025,
+        "price": 43.16
+    },
+    {
+        "name": "Cyberpunk 2077 1",
+        "main_category": "Adventure",
+        "sub_category": "Survival",
+        "image": "https://example.com/game_101.jpg",
+        "ratings": 4.9,
+        "no_of_ratings": 6281,
+        "price": 62.53
+    },
+    {
+        "name": "Forza Horizon 5 4",
+        "main_category": "RPG",
+        "sub_category": "Open World",
+        "image": "https://example.com/game_102.jpg",
+        "ratings": 4.1,
+        "no_of_ratings": 30111,
+        "price": 65.43
+    },
+    {
+        "name": "Horizon Forbidden West 1",
+        "main_category": "Action",
+        "sub_category": "Adventure",
+        "image": "https://example.com/game_103.jpg",
+        "ratings": 4.2,
+        "no_of_ratings": 9768,
+        "price": 35.62
+    },
+    {
+        "name": "Forza Horizon 5 8",
+        "main_category": "Shooter",
+        "sub_category": "Battle Royale",
+        "image": "https://example.com/game_104.jpg",
+        "ratings": 4.4,
+        "no_of_ratings": 1078,
+        "price": 45.95
+    },
+    {
+        "name": "Forza Horizon 5 8",
+        "main_category": "RPG",
+        "sub_category": "Fantasy",
+        "image": "https://example.com/game_105.jpg",
+        "ratings": 4.1,
+        "no_of_ratings": 35412,
+        "price": 25.08
+    },
+    {
+        "name": "Cyberpunk 2077 8",
+        "main_category": "Racing",
+        "sub_category": "Simulation",
+        "image": "https://example.com/game_106.jpg",
+        "ratings": 4.5,
+        "no_of_ratings": 22833,
+        "price": 55.46
+    },
+    {
+        "name": "Halo Infinite 4",
+        "main_category": "Action",
+        "sub_category": "Fighting",
+        "image": "https://example.com/game_107.jpg",
+        "ratings": 4.4,
+        "no_of_ratings": 12490,
+        "price": 30.38
+    },
+    {
+        "name": "Bloodborne 2",
+        "main_category": "Horror",
+        "sub_category": "Zombie",
+        "image": "https://example.com/game_108.jpg",
+        "ratings": 5.0,
+        "no_of_ratings": 43774,
+        "price": 55.95
+    },
+    {
+        "name": "Red Dead Redemption 2 1",
+        "main_category": "Adventure",
+        "sub_category": "Puzzle",
+        "image": "https://example.com/game_109.jpg",
+        "ratings": 4.2,
+        "no_of_ratings": 22485,
+        "price": 46.53
+    },
+    {
+        "name": "Bloodborne 3",
+        "main_category": "Horror",
+        "sub_category": "Psychological",
+        "image": "https://example.com/game_110.jpg",
+        "ratings": 3.6,
+        "no_of_ratings": 22095,
+        "price": 39.32
+    },
+    {
+        "name": "Sekiro: Shadows Die Twice 5",
+        "main_category": "Action",
+        "sub_category": "Hack and Slash",
+        "image": "https://example.com/game_111.jpg",
+        "ratings": 4.1,
+        "no_of_ratings": 47017,
+        "price": 49.84
+    },
+    {
+        "name": "Final Fantasy XVI 2",
+        "main_category": "Action",
+        "sub_category": "Adventure",
+        "image": "https://example.com/game_112.jpg",
+        "ratings": 4.1,
+        "no_of_ratings": 15825,
+        "price": 49.73
+    },
+    {
+        "name": "Ghost of Tsushima 10",
+        "main_category": "RPG",
+        "sub_category": "Fantasy",
+        "image": "https://example.com/game_113.jpg",
+        "ratings": 4.7,
+        "no_of_ratings": 14049,
+        "price": 34.43
+    },
+    {
+        "name": "Red Dead Redemption 2 6",
+        "main_category": "Racing",
+        "sub_category": "Arcade",
+        "image": "https://example.com/game_114.jpg",
+        "ratings": 3.9,
+        "no_of_ratings": 25208,
+        "price": 42.66
+    },
+    {
+        "name": "Ghost of Tsushima 1",
+        "main_category": "Horror",
+        "sub_category": "Survival",
+        "image": "https://example.com/game_115.jpg",
+        "ratings": 4.7,
+        "no_of_ratings": 18456,
+        "price": 63.58
+    },
+    {
+        "name": "Ghost of Tsushima 9",
+        "main_category": "RPG",
+        "sub_category": "Open World",
+        "image": "https://example.com/game_116.jpg",
+        "ratings": 4.8,
+        "no_of_ratings": 45554,
+        "price": 60.55
+    },
+    {
+        "name": "Elden Ring 10",
+        "main_category": "RPG",
+        "sub_category": "Fantasy",
+        "image": "https://example.com/game_117.jpg",
+        "ratings": 4.6,
+        "no_of_ratings": 47191,
+        "price": 27.74
+    },
+    {
+        "name": "Forza Horizon 5 4",
+        "main_category": "Adventure",
+        "sub_category": "Puzzle",
+        "image": "https://example.com/game_118.jpg",
+        "ratings": 4.7,
+        "no_of_ratings": 4104,
+        "price": 21.17
+    },
+    {
+        "name": "Sekiro: Shadows Die Twice 4",
+        "main_category": "RPG",
+        "sub_category": "Open World",
+        "image": "https://example.com/game_119.jpg",
+        "ratings": 4.0,
+        "no_of_ratings": 42410,
+        "price": 65.32
+    },
+    {
+        "name": "Spider-Man: Miles Morales 7",
+        "main_category": "Shooter",
+        "sub_category": "First-Person",
+        "image": "https://example.com/game_120.jpg",
+        "ratings": 4.9,
+        "no_of_ratings": 6860,
+        "price": 39.63
+    },
+    {
+        "name": "Ghost of Tsushima 4",
+        "main_category": "Shooter",
+        "sub_category": "Third-Person",
+        "image": "https://example.com/game_121.jpg",
+        "ratings": 3.7,
+        "no_of_ratings": 32059,
+        "price": 61.49
+    },
+    {
+        "name": "Spider-Man: Miles Morales 5",
+        "main_category": "Horror",
+        "sub_category": "Zombie",
+        "image": "https://example.com/game_122.jpg",
+        "ratings": 4.7,
+        "no_of_ratings": 25812,
+        "price": 34.27
+    },
+    {
+        "name": "GTA V 5",
+        "main_category": "Racing",
+        "sub_category": "Arcade",
+        "image": "https://example.com/game_123.jpg",
+        "ratings": 4.0,
+        "no_of_ratings": 35011,
+        "price": 46.39
+    },
+    {
+        "name": "Bloodborne 5",
+        "main_category": "Action",
+        "sub_category": "Fighting",
+        "image": "https://example.com/game_124.jpg",
+        "ratings": 3.8,
+        "no_of_ratings": 7631,
+        "price": 28.6
+    },
+    {
+        "name": "Halo Infinite 5",
+        "main_category": "Shooter",
+        "sub_category": "Third-Person",
+        "image": "https://example.com/game_125.jpg",
+        "ratings": 4.6,
+        "no_of_ratings": 40744,
+        "price": 22.7
+    },
+    {
+        "name": "Red Dead Redemption 2 5",
+        "main_category": "Racing",
+        "sub_category": "Arcade",
+        "image": "https://example.com/game_126.jpg",
+        "ratings": 4.9,
+        "no_of_ratings": 46859,
+        "price": 40.46
+    },
+    {
+        "name": "Doom Eternal 10",
+        "main_category": "Racing",
+        "sub_category": "Arcade",
+        "image": "https://example.com/game_127.jpg",
+        "ratings": 4.2,
+        "no_of_ratings": 1147,
+        "price": 64.25
+    },
+    {
+        "name": "Final Fantasy XVI 9",
+        "main_category": "Shooter",
+        "sub_category": "First-Person",
+        "image": "https://example.com/game_128.jpg",
+        "ratings": 4.1,
+        "no_of_ratings": 2681,
+        "price": 55.63
+    },
+    {
+        "name": "Forza Horizon 5 5",
+        "main_category": "Horror",
+        "sub_category": "Psychological",
+        "image": "https://example.com/game_129.jpg",
+        "ratings": 4.7,
+        "no_of_ratings": 20372,
+        "price": 68.57
+    },
+    {
+        "name": "Final Fantasy XVI 6",
+        "main_category": "Action",
+        "sub_category": "Adventure",
+        "image": "https://example.com/game_130.jpg",
+        "ratings": 3.6,
+        "no_of_ratings": 13382,
+        "price": 45.51
+    },
+    {
+        "name": "Doom Eternal 5",
+        "main_category": "Racing",
+        "sub_category": "Arcade",
+        "image": "https://example.com/game_131.jpg",
+        "ratings": 3.9,
+        "no_of_ratings": 1518,
+        "price": 43.65
+    },
+    {
+        "name": "Elden Ring 2",
+        "main_category": "Adventure",
+        "sub_category": "Exploration",
+        "image": "https://example.com/game_132.jpg",
+        "ratings": 4.5,
+        "no_of_ratings": 31971,
+        "price": 46.12
+    },
+    {
+        "name": "Star Wars Jedi: Survivor 4",
+        "main_category": "RPG",
+        "sub_category": "Sci-Fi",
+        "image": "https://example.com/game_133.jpg",
+        "ratings": 4.4,
+        "no_of_ratings": 47332,
+        "price": 58.18
+    },
+    {
+        "name": "Ghost of Tsushima 5",
+        "main_category": "Racing",
+        "sub_category": "Simulation",
+        "image": "https://example.com/game_134.jpg",
+        "ratings": 3.5,
+        "no_of_ratings": 45054,
+        "price": 57.0
+    },
+    {
+        "name": "Bloodborne 4",
+        "main_category": "Horror",
+        "sub_category": "Psychological",
+        "image": "https://example.com/game_135.jpg",
+        "ratings": 4.9,
+        "no_of_ratings": 8955,
+        "price": 22.92
+    },
+    {
+        "name": "Forza Horizon 5 1",
+        "main_category": "Horror",
+        "sub_category": "Zombie",
+        "image": "https://example.com/game_136.jpg",
+        "ratings": 4.3,
+        "no_of_ratings": 11405,
+        "price": 46.03
+    },
+    {
+        "name": "Spider-Man: Miles Morales 4",
+        "main_category": "Racing",
+        "sub_category": "Simulation",
+        "image": "https://example.com/game_137.jpg",
+        "ratings": 4.5,
+        "no_of_ratings": 22181,
+        "price": 32.01
+    },
+    {
+        "name": "Sekiro: Shadows Die Twice 1",
+        "main_category": "Horror",
+        "sub_category": "Survival",
+        "image": "https://example.com/game_138.jpg",
+        "ratings": 4.7,
+        "no_of_ratings": 14269,
+        "price": 39.27
+    },
+    {
+        "name": "Forza Horizon 5 5",
+        "main_category": "Shooter",
+        "sub_category": "First-Person",
+        "image": "https://example.com/game_139.jpg",
+        "ratings": 4.0,
+        "no_of_ratings": 21977,
+        "price": 50.56
+    },
+    {
+        "name": "Red Dead Redemption 2 8",
+        "main_category": "Adventure",
+        "sub_category": "Exploration",
+        "image": "https://example.com/game_140.jpg",
+        "ratings": 4.2,
+        "no_of_ratings": 13908,
+        "price": 38.68
+    },
+    {
+        "name": "Cyberpunk 2077 5",
+        "main_category": "Action",
+        "sub_category": "Hack and Slash",
+        "image": "https://example.com/game_141.jpg",
+        "ratings": 3.8,
+        "no_of_ratings": 46242,
+        "price": 31.15
+    },
+    {
+        "name": "Halo Infinite 6",
+        "main_category": "Horror",
+        "sub_category": "Zombie",
+        "image": "https://example.com/game_142.jpg",
+        "ratings": 4.1,
+        "no_of_ratings": 21896,
+        "price": 62.3
+    },
+    {
+        "name": "Ghost of Tsushima 3",
+        "main_category": "Adventure",
+        "sub_category": "Exploration",
+        "image": "https://example.com/game_143.jpg",
+        "ratings": 3.7,
+        "no_of_ratings": 10260,
+        "price": 32.11
+    },
+    {
+        "name": "Final Fantasy XVI 3",
+        "main_category": "Racing",
+        "sub_category": "Off-Road",
+        "image": "https://example.com/game_144.jpg",
+        "ratings": 3.8,
+        "no_of_ratings": 2929,
+        "price": 40.52
+    },
+    {
+        "name": "Elden Ring 10",
+        "main_category": "Adventure",
+        "sub_category": "Puzzle",
+        "image": "https://example.com/game_145.jpg",
+        "ratings": 3.5,
+        "no_of_ratings": 5948,
+        "price": 45.93
+    },
+    {
+        "name": "The Witcher 3: Wild Hunt 6",
+        "main_category": "RPG",
+        "sub_category": "Fantasy",
+        "image": "https://example.com/game_146.jpg",
+        "ratings": 4.1,
+        "no_of_ratings": 20683,
+        "price": 57.92
+    },
+    {
+        "name": "Cyberpunk 2077 1",
+        "main_category": "Horror",
+        "sub_category": "Psychological",
+        "image": "https://example.com/game_147.jpg",
+        "ratings": 3.8,
+        "no_of_ratings": 40551,
+        "price": 33.95
+    },
+    {
+        "name": "The Legend of Zelda: Breath of the Wild 6",
+        "main_category": "Racing",
+        "sub_category": "Arcade",
+        "image": "https://example.com/game_148.jpg",
+        "ratings": 3.8,
+        "no_of_ratings": 34910,
+        "price": 21.36
+    },
+    {
+        "name": "Sekiro: Shadows Die Twice 8",
+        "main_category": "Shooter",
+        "sub_category": "Third-Person",
+        "image": "https://example.com/game_149.jpg",
+        "ratings": 3.9,
+        "no_of_ratings": 30632,
+        "price": 36.34
+    },
+    {
+        "name": "Ghost of Tsushima 4",
+        "main_category": "Adventure",
+        "sub_category": "Puzzle",
+        "image": "https://example.com/game_150.jpg",
+        "ratings": 4.3,
+        "no_of_ratings": 44942,
+        "price": 52.3
+    },
+    {
+        "name": "Elden Ring 10",
+        "main_category": "Adventure",
+        "sub_category": "Survival",
+        "image": "https://example.com/game_151.jpg",
+        "ratings": 3.7,
+        "no_of_ratings": 10605,
+        "price": 54.48
+    },
+    {
+        "name": "Star Wars Jedi: Survivor 4",
+        "main_category": "RPG",
+        "sub_category": "Open World",
+        "image": "https://example.com/game_152.jpg",
+        "ratings": 5.0,
+        "no_of_ratings": 49481,
+        "price": 23.3
+    },
+    {
+        "name": "Sekiro: Shadows Die Twice 6",
+        "main_category": "Adventure",
+        "sub_category": "Survival",
+        "image": "https://example.com/game_153.jpg",
+        "ratings": 4.9,
+        "no_of_ratings": 18294,
+        "price": 57.8
+    },
+    {
+        "name": "Horizon Forbidden West 4",
+        "main_category": "Adventure",
+        "sub_category": "Puzzle",
+        "image": "https://example.com/game_154.jpg",
+        "ratings": 4.0,
+        "no_of_ratings": 44037,
+        "price": 21.95
+    },
+    {
+        "name": "Resident Evil 4 Remake 1",
+        "main_category": "Action",
+        "sub_category": "Hack and Slash",
+        "image": "https://example.com/game_155.jpg",
+        "ratings": 4.6,
+        "no_of_ratings": 36691,
+        "price": 67.29
+    },
+    {
+        "name": "Bloodborne 1",
+        "main_category": "RPG",
+        "sub_category": "Sci-Fi",
+        "image": "https://example.com/game_156.jpg",
+        "ratings": 4.9,
+        "no_of_ratings": 40790,
+        "price": 37.24
+    },
+    {
+        "name": "Star Wars Jedi: Survivor 10",
+        "main_category": "Racing",
+        "sub_category": "Arcade",
+        "image": "https://example.com/game_157.jpg",
+        "ratings": 4.2,
+        "no_of_ratings": 3770,
+        "price": 59.3
+    },
+    {
+        "name": "The Legend of Zelda: Breath of the Wild 4",
+        "main_category": "Horror",
+        "sub_category": "Psychological",
+        "image": "https://example.com/game_158.jpg",
+        "ratings": 4.1,
+        "no_of_ratings": 26675,
+        "price": 37.31
+    },
+    {
+        "name": "Doom Eternal 3",
+        "main_category": "Shooter",
+        "sub_category": "First-Person",
+        "image": "https://example.com/game_159.jpg",
+        "ratings": 3.8,
+        "no_of_ratings": 32630,
+        "price": 40.06
+    },
+    {
+        "name": "Resident Evil 4 Remake 10",
+        "main_category": "Adventure",
+        "sub_category": "Exploration",
+        "image": "https://example.com/game_160.jpg",
+        "ratings": 3.9,
+        "no_of_ratings": 49286,
+        "price": 48.11
+    },
+    {
+        "name": "Spider-Man: Miles Morales 9",
+        "main_category": "Action",
+        "sub_category": "Fighting",
+        "image": "https://example.com/game_161.jpg",
+        "ratings": 4.6,
+        "no_of_ratings": 21247,
+        "price": 23.08
+    },
+    {
+        "name": "Elden Ring 4",
+        "main_category": "Action",
+        "sub_category": "Hack and Slash",
+        "image": "https://example.com/game_162.jpg",
+        "ratings": 4.0,
+        "no_of_ratings": 2311,
+        "price": 62.66
+    },
+    {
+        "name": "Final Fantasy XVI 10",
+        "main_category": "Racing",
+        "sub_category": "Simulation",
+        "image": "https://example.com/game_163.jpg",
+        "ratings": 4.0,
+        "no_of_ratings": 14831,
+        "price": 55.33
+    },
+    {
+        "name": "Dark Souls III 6",
+        "main_category": "RPG",
+        "sub_category": "Fantasy",
+        "image": "https://example.com/game_164.jpg",
+        "ratings": 4.3,
+        "no_of_ratings": 25030,
+        "price": 49.51
+    },
+    {
+        "name": "Red Dead Redemption 2 8",
+        "main_category": "Racing",
+        "sub_category": "Arcade",
+        "image": "https://example.com/game_165.jpg",
+        "ratings": 4.6,
+        "no_of_ratings": 15703,
+        "price": 28.31
+    },
+    {
+        "name": "Star Wars Jedi: Survivor 9",
+        "main_category": "Action",
+        "sub_category": "Hack and Slash",
+        "image": "https://example.com/game_166.jpg",
+        "ratings": 4.5,
+        "no_of_ratings": 41317,
+        "price": 37.8
+    },
+    {
+        "name": "The Legend of Zelda: Breath of the Wild 6",
+        "main_category": "Shooter",
+        "sub_category": "Third-Person",
+        "image": "https://example.com/game_167.jpg",
+        "ratings": 3.8,
+        "no_of_ratings": 2766,
+        "price": 57.25
+    },
+    {
+        "name": "Halo Infinite 8",
+        "main_category": "Adventure",
+        "sub_category": "Exploration",
+        "image": "https://example.com/game_168.jpg",
+        "ratings": 4.4,
+        "no_of_ratings": 36345,
+        "price": 47.66
+    },
+    {
+        "name": "Resident Evil 4 Remake 10",
+        "main_category": "Horror",
+        "sub_category": "Psychological",
+        "image": "https://example.com/game_169.jpg",
+        "ratings": 5.0,
+        "no_of_ratings": 30771,
+        "price": 39.47
+    },
+    {
+        "name": "Sekiro: Shadows Die Twice 3",
+        "main_category": "Horror",
+        "sub_category": "Zombie",
+        "image": "https://example.com/game_170.jpg",
+        "ratings": 4.3,
+        "no_of_ratings": 1712,
+        "price": 62.65
+    },
+    {
+        "name": "Cyberpunk 2077 3",
+        "main_category": "Action",
+        "sub_category": "Adventure",
+        "image": "https://example.com/game_171.jpg",
+        "ratings": 4.2,
+        "no_of_ratings": 49873,
+        "price": 34.9
+    },
+    {
+        "name": "Spider-Man: Miles Morales 3",
+        "main_category": "Racing",
+        "sub_category": "Simulation",
+        "image": "https://example.com/game_172.jpg",
+        "ratings": 3.7,
+        "no_of_ratings": 10893,
+        "price": 27.33
+    },
+    {
+        "name": "Dark Souls III 1",
+        "main_category": "Racing",
+        "sub_category": "Off-Road",
+        "image": "https://example.com/game_173.jpg",
+        "ratings": 4.8,
+        "no_of_ratings": 31555,
+        "price": 50.15
+    },
+    {
+        "name": "Elden Ring 10",
+        "main_category": "Adventure",
+        "sub_category": "Exploration",
+        "image": "https://example.com/game_174.jpg",
+        "ratings": 3.6,
+        "no_of_ratings": 49703,
+        "price": 52.93
+    },
+    {
+        "name": "Bloodborne 2",
+        "main_category": "RPG",
+        "sub_category": "Open World",
+        "image": "https://example.com/game_175.jpg",
+        "ratings": 3.8,
+        "no_of_ratings": 19216,
+        "price": 25.32
+    },
+    {
+        "name": "Ghost of Tsushima 1",
+        "main_category": "Shooter",
+        "sub_category": "First-Person",
+        "image": "https://example.com/game_176.jpg",
+        "ratings": 3.7,
+        "no_of_ratings": 26998,
+        "price": 24.8
+    },
+    {
+        "name": "Assassin's Creed Valhalla 3",
+        "main_category": "Action",
+        "sub_category": "Hack and Slash",
+        "image": "https://example.com/game_177.jpg",
+        "ratings": 4.1,
+        "no_of_ratings": 40393,
+        "price": 39.82
+    },
+    {
+        "name": "Horizon Forbidden West 10",
+        "main_category": "Shooter",
+        "sub_category": "Battle Royale",
+        "image": "https://example.com/game_178.jpg",
+        "ratings": 4.7,
+        "no_of_ratings": 49848,
+        "price": 50.43
+    },
+    {
+        "name": "Forza Horizon 5 4",
+        "main_category": "Racing",
+        "sub_category": "Simulation",
+        "image": "https://example.com/game_179.jpg",
+        "ratings": 4.8,
+        "no_of_ratings": 32498,
+        "price": 47.08
+    },
+    {
+        "name": "Resident Evil 4 Remake 10",
+        "main_category": "Shooter",
+        "sub_category": "First-Person",
+        "image": "https://example.com/game_180.jpg",
+        "ratings": 4.2,
+        "no_of_ratings": 19581,
+        "price": 46.54
+    },
+    {
+        "name": "Assassin's Creed Valhalla 8",
+        "main_category": "Action",
+        "sub_category": "Adventure",
+        "image": "https://example.com/game_181.jpg",
+        "ratings": 3.6,
+        "no_of_ratings": 37096,
+        "price": 29.89
+    },
+    {
+        "name": "Dark Souls III 10",
+        "main_category": "Horror",
+        "sub_category": "Psychological",
+        "image": "https://example.com/game_182.jpg",
+        "ratings": 4.1,
+        "no_of_ratings": 47995,
+        "price": 38.28
+    },
+    {
+        "name": "The Witcher 3: Wild Hunt 7",
+        "main_category": "Adventure",
+        "sub_category": "Survival",
+        "image": "https://example.com/game_183.jpg",
+        "ratings": 4.7,
+        "no_of_ratings": 2812,
+        "price": 56.47
+    },
+    {
+        "name": "Star Wars Jedi: Survivor 1",
+        "main_category": "Racing",
+        "sub_category": "Arcade",
+        "image": "https://example.com/game_184.jpg",
+        "ratings": 4.0,
+        "no_of_ratings": 8504,
+        "price": 50.1
+    },
+    {
+        "name": "Spider-Man: Miles Morales 10",
+        "main_category": "Shooter",
+        "sub_category": "Battle Royale",
+        "image": "https://example.com/game_185.jpg",
+        "ratings": 4.2,
+        "no_of_ratings": 2702,
+        "price": 25.91
+    },
+    {
+        "name": "Cyberpunk 2077 3",
+        "main_category": "Adventure",
+        "sub_category": "Survival",
+        "image": "https://example.com/game_186.jpg",
+        "ratings": 3.6,
+        "no_of_ratings": 45832,
+        "price": 44.77
+    },
+    {
+        "name": "The Legend of Zelda: Breath of the Wild 1",
+        "main_category": "Adventure",
+        "sub_category": "Exploration",
+        "image": "https://example.com/game_187.jpg",
+        "ratings": 4.3,
+        "no_of_ratings": 44617,
+        "price": 58.78
+    },
+    {
+        "name": "Forza Horizon 5 6",
+        "main_category": "Action",
+        "sub_category": "Fighting",
+        "image": "https://example.com/game_188.jpg",
+        "ratings": 4.6,
+        "no_of_ratings": 15905,
+        "price": 45.84
+    },
+    {
+        "name": "Assassin's Creed Valhalla 1",
+        "main_category": "Horror",
+        "sub_category": "Survival",
+        "image": "https://example.com/game_189.jpg",
+        "ratings": 4.3,
+        "no_of_ratings": 4481,
+        "price": 30.46
+    },
+    {
+        "name": "Halo Infinite 2",
+        "main_category": "Racing",
+        "sub_category": "Simulation",
+        "image": "https://example.com/game_190.jpg",
+        "ratings": 4.9,
+        "no_of_ratings": 15723,
+        "price": 24.63
+    },
+    {
+        "name": "Horizon Forbidden West 3",
+        "main_category": "RPG",
+        "sub_category": "Fantasy",
+        "image": "https://example.com/game_191.jpg",
+        "ratings": 3.6,
+        "no_of_ratings": 21083,
+        "price": 37.93
+    },
+    {
+        "name": "Dark Souls III 9",
+        "main_category": "RPG",
+        "sub_category": "Sci-Fi",
+        "image": "https://example.com/game_192.jpg",
+        "ratings": 4.1,
+        "no_of_ratings": 36907,
+        "price": 36.21
+    },
+    {
+        "name": "Cyberpunk 2077 1",
+        "main_category": "Shooter",
+        "sub_category": "Third-Person",
+        "image": "https://example.com/game_193.jpg",
+        "ratings": 3.8,
+        "no_of_ratings": 6425,
+        "price": 58.62
+    },
+    {
+        "name": "Sekiro: Shadows Die Twice 9",
+        "main_category": "Horror",
+        "sub_category": "Zombie",
+        "image": "https://example.com/game_194.jpg",
+        "ratings": 4.1,
+        "no_of_ratings": 15517,
+        "price": 63.01
+    },
+    {
+        "name": "The Witcher 3: Wild Hunt 3",
+        "main_category": "Horror",
+        "sub_category": "Survival",
+        "image": "https://example.com/game_195.jpg",
+        "ratings": 3.9,
+        "no_of_ratings": 15120,
+        "price": 38.17
+    },
+    {
+        "name": "GTA V 5",
+        "main_category": "Horror",
+        "sub_category": "Zombie",
+        "image": "https://example.com/game_196.jpg",
+        "ratings": 4.5,
+        "no_of_ratings": 49743,
+        "price": 49.37
+    },
+    {
+        "name": "God of War: Ragnarok 9",
+        "main_category": "Racing",
+        "sub_category": "Off-Road",
+        "image": "https://example.com/game_197.jpg",
+        "ratings": 4.1,
+        "no_of_ratings": 21486,
+        "price": 54.19
+    },
+    {
+        "name": "GTA V 7",
+        "main_category": "Shooter",
+        "sub_category": "Battle Royale",
+        "image": "https://example.com/game_198.jpg",
+        "ratings": 3.6,
+        "no_of_ratings": 23765,
+        "price": 31.85
+    },
+    {
+        "name": "Cyberpunk 2077 10",
+        "main_category": "Racing",
+        "sub_category": "Simulation",
+        "image": "https://example.com/game_199.jpg",
+        "ratings": 4.6,
+        "no_of_ratings": 18697,
+        "price": 47.28
+    },
+    {
+        "name": "Star Wars Jedi: Survivor 4",
+        "main_category": "Racing",
+        "sub_category": "Off-Road",
+        "image": "https://example.com/game_200.jpg",
+        "ratings": 3.7,
+        "no_of_ratings": 25556,
+        "price": 30.09
+    },
+    {
+        "name": "Halo Infinite 4",
+        "main_category": "Shooter",
+        "sub_category": "First-Person",
+        "image": "https://example.com/game_201.jpg",
+        "ratings": 4.4,
+        "no_of_ratings": 27280,
+        "price": 35.58
+    },
+    {
+        "name": "Assassin's Creed Valhalla 5",
+        "main_category": "Racing",
+        "sub_category": "Simulation",
+        "image": "https://example.com/game_202.jpg",
+        "ratings": 5.0,
+        "no_of_ratings": 9773,
+        "price": 67.04
+    },
+    {
+        "name": "Star Wars Jedi: Survivor 2",
+        "main_category": "Adventure",
+        "sub_category": "Exploration",
+        "image": "https://example.com/game_203.jpg",
+        "ratings": 4.1,
+        "no_of_ratings": 15923,
+        "price": 56.28
+    },
+    {
+        "name": "Sekiro: Shadows Die Twice 3",
+        "main_category": "Racing",
+        "sub_category": "Off-Road",
+        "image": "https://example.com/game_204.jpg",
+        "ratings": 4.8,
+        "no_of_ratings": 35736,
+        "price": 27.89
+    },
+    {
+        "name": "The Witcher 3: Wild Hunt 10",
+        "main_category": "Horror",
+        "sub_category": "Survival",
+        "image": "https://example.com/game_205.jpg",
+        "ratings": 4.0,
+        "no_of_ratings": 37658,
+        "price": 59.78
+    },
+    {
+        "name": "Assassin's Creed Valhalla 9",
+        "main_category": "RPG",
+        "sub_category": "Fantasy",
+        "image": "https://example.com/game_206.jpg",
+        "ratings": 4.1,
+        "no_of_ratings": 11458,
+        "price": 37.51
+    },
+    {
+        "name": "Bloodborne 3",
+        "main_category": "Racing",
+        "sub_category": "Simulation",
+        "image": "https://example.com/game_207.jpg",
+        "ratings": 3.8,
+        "no_of_ratings": 30852,
+        "price": 28.48
+    },
+    {
+        "name": "Ghost of Tsushima 9",
+        "main_category": "RPG",
+        "sub_category": "Sci-Fi",
+        "image": "https://example.com/game_208.jpg",
+        "ratings": 4.3,
+        "no_of_ratings": 33172,
+        "price": 62.94
+    },
+    {
+        "name": "Resident Evil 4 Remake 10",
+        "main_category": "Adventure",
+        "sub_category": "Puzzle",
+        "image": "https://example.com/game_209.jpg",
+        "ratings": 4.8,
+        "no_of_ratings": 5743,
+        "price": 20.78
+    },
+    {
+        "name": "Horizon Forbidden West 6",
+        "main_category": "Shooter",
+        "sub_category": "First-Person",
+        "image": "https://example.com/game_210.jpg",
+        "ratings": 4.3,
+        "no_of_ratings": 9890,
+        "price": 37.09
+    },
+    {
+        "name": "Bloodborne 3",
+        "main_category": "Shooter",
+        "sub_category": "Battle Royale",
+        "image": "https://example.com/game_211.jpg",
+        "ratings": 4.4,
+        "no_of_ratings": 41938,
+        "price": 55.64
+    },
+    {
+        "name": "Spider-Man: Miles Morales 1",
+        "main_category": "RPG",
+        "sub_category": "Sci-Fi",
+        "image": "https://example.com/game_212.jpg",
+        "ratings": 4.3,
+        "no_of_ratings": 41760,
+        "price": 40.64
+    },
+    {
+        "name": "Elden Ring 1",
+        "main_category": "Racing",
+        "sub_category": "Arcade",
+        "image": "https://example.com/game_213.jpg",
+        "ratings": 4.6,
+        "no_of_ratings": 38415,
+        "price": 57.33
+    },
+    {
+        "name": "God of War: Ragnarok 5",
+        "main_category": "Shooter",
+        "sub_category": "Third-Person",
+        "image": "https://example.com/game_214.jpg",
+        "ratings": 3.5,
+        "no_of_ratings": 23720,
+        "price": 24.96
+    },
+    {
+        "name": "Forza Horizon 5 4",
+        "main_category": "Action",
+        "sub_category": "Adventure",
+        "image": "https://example.com/game_215.jpg",
+        "ratings": 4.5,
+        "no_of_ratings": 35035,
+        "price": 60.36
+    },
+    {
+        "name": "Bloodborne 10",
+        "main_category": "Adventure",
+        "sub_category": "Puzzle",
+        "image": "https://example.com/game_216.jpg",
+        "ratings": 3.6,
+        "no_of_ratings": 30825,
+        "price": 38.02
+    },
+    {
+        "name": "Dark Souls III 4",
+        "main_category": "Shooter",
+        "sub_category": "Battle Royale",
+        "image": "https://example.com/game_217.jpg",
+        "ratings": 4.3,
+        "no_of_ratings": 27862,
+        "price": 51.61
+    },
+    {
+        "name": "Bloodborne 2",
+        "main_category": "RPG",
+        "sub_category": "Sci-Fi",
+        "image": "https://example.com/game_218.jpg",
+        "ratings": 4.6,
+        "no_of_ratings": 24637,
+        "price": 39.09
+    },
+    {
+        "name": "Resident Evil 4 Remake 8",
+        "main_category": "Horror",
+        "sub_category": "Psychological",
+        "image": "https://example.com/game_219.jpg",
+        "ratings": 4.4,
+        "no_of_ratings": 25806,
+        "price": 52.11
+    },
+    {
+        "name": "Spider-Man: Miles Morales 4",
+        "main_category": "Shooter",
+        "sub_category": "Third-Person",
+        "image": "https://example.com/game_220.jpg",
+        "ratings": 4.9,
+        "no_of_ratings": 47028,
+        "price": 29.22
+    },
+    {
+        "name": "The Witcher 3: Wild Hunt 2",
+        "main_category": "Shooter",
+        "sub_category": "Third-Person",
+        "image": "https://example.com/game_221.jpg",
+        "ratings": 3.6,
+        "no_of_ratings": 19286,
+        "price": 42.45
+    },
+    {
+        "name": "Halo Infinite 10",
+        "main_category": "Adventure",
+        "sub_category": "Puzzle",
+        "image": "https://example.com/game_222.jpg",
+        "ratings": 4.6,
+        "no_of_ratings": 30744,
+        "price": 22.93
+    },
+    {
+        "name": "Horizon Forbidden West 2",
+        "main_category": "RPG",
+        "sub_category": "Open World",
+        "image": "https://example.com/game_223.jpg",
+        "ratings": 4.2,
+        "no_of_ratings": 44808,
+        "price": 66.51
+    },
+    {
+        "name": "Elden Ring 8",
+        "main_category": "Horror",
+        "sub_category": "Survival",
+        "image": "https://example.com/game_224.jpg",
+        "ratings": 4.4,
+        "no_of_ratings": 4533,
+        "price": 22.88
+    },
+    {
+        "name": "Resident Evil 4 Remake 5",
+        "main_category": "Action",
+        "sub_category": "Fighting",
+        "image": "https://example.com/game_225.jpg",
+        "ratings": 4.9,
+        "no_of_ratings": 11123,
+        "price": 32.97
+    },
+    {
+        "name": "Spider-Man: Miles Morales 2",
+        "main_category": "Racing",
+        "sub_category": "Off-Road",
+        "image": "https://example.com/game_226.jpg",
+        "ratings": 4.9,
+        "no_of_ratings": 24410,
+        "price": 46.49
+    },
+    {
+        "name": "Spider-Man: Miles Morales 6",
+        "main_category": "RPG",
+        "sub_category": "Sci-Fi",
+        "image": "https://example.com/game_227.jpg",
+        "ratings": 4.8,
+        "no_of_ratings": 28431,
+        "price": 29.68
+    },
+    {
+        "name": "Assassin's Creed Valhalla 8",
+        "main_category": "RPG",
+        "sub_category": "Sci-Fi",
+        "image": "https://example.com/game_228.jpg",
+        "ratings": 4.5,
+        "no_of_ratings": 10882,
+        "price": 27.66
+    },
+    {
+        "name": "Ghost of Tsushima 7",
+        "main_category": "RPG",
+        "sub_category": "Open World",
+        "image": "https://example.com/game_229.jpg",
+        "ratings": 4.1,
+        "no_of_ratings": 7534,
+        "price": 29.8
+    },
+    {
+        "name": "Sekiro: Shadows Die Twice 1",
+        "main_category": "Horror",
+        "sub_category": "Survival",
+        "image": "https://example.com/game_230.jpg",
+        "ratings": 3.7,
+        "no_of_ratings": 30032,
+        "price": 21.88
+    },
+    {
+        "name": "Dark Souls III 8",
+        "main_category": "RPG",
+        "sub_category": "Fantasy",
+        "image": "https://example.com/game_231.jpg",
+        "ratings": 4.8,
+        "no_of_ratings": 19237,
+        "price": 39.11
+    },
+    {
+        "name": "The Witcher 3: Wild Hunt 7",
+        "main_category": "RPG",
+        "sub_category": "Fantasy",
+        "image": "https://example.com/game_232.jpg",
+        "ratings": 4.6,
+        "no_of_ratings": 29264,
+        "price": 50.39
+    },
+    {
+        "name": "Cyberpunk 2077 9",
+        "main_category": "Action",
+        "sub_category": "Fighting",
+        "image": "https://example.com/game_233.jpg",
+        "ratings": 4.5,
+        "no_of_ratings": 28917,
+        "price": 46.17
+    },
+    {
+        "name": "Cyberpunk 2077 2",
+        "main_category": "RPG",
+        "sub_category": "Fantasy",
+        "image": "https://example.com/game_234.jpg",
+        "ratings": 4.5,
+        "no_of_ratings": 26783,
+        "price": 31.94
+    },
+    {
+        "name": "Red Dead Redemption 2 7",
+        "main_category": "Action",
+        "sub_category": "Hack and Slash",
+        "image": "https://example.com/game_235.jpg",
+        "ratings": 4.9,
+        "no_of_ratings": 39885,
+        "price": 43.08
+    },
+    {
+        "name": "Doom Eternal 8",
+        "main_category": "RPG",
+        "sub_category": "Fantasy",
+        "image": "https://example.com/game_236.jpg",
+        "ratings": 4.2,
+        "no_of_ratings": 44001,
+        "price": 42.51
+    },
+    {
+        "name": "Assassin's Creed Valhalla 7",
+        "main_category": "Shooter",
+        "sub_category": "First-Person",
+        "image": "https://example.com/game_237.jpg",
+        "ratings": 4.2,
+        "no_of_ratings": 30781,
+        "price": 34.87
+    },
+    {
+        "name": "Cyberpunk 2077 8",
+        "main_category": "Horror",
+        "sub_category": "Psychological",
+        "image": "https://example.com/game_238.jpg",
+        "ratings": 4.3,
+        "no_of_ratings": 2916,
+        "price": 25.13
+    },
+    {
+        "name": "Horizon Forbidden West 9",
+        "main_category": "Adventure",
+        "sub_category": "Puzzle",
+        "image": "https://example.com/game_239.jpg",
+        "ratings": 4.7,
+        "no_of_ratings": 12453,
+        "price": 53.67
+    },
+    {
+        "name": "Star Wars Jedi: Survivor 4",
+        "main_category": "Racing",
+        "sub_category": "Arcade",
+        "image": "https://example.com/game_240.jpg",
+        "ratings": 3.8,
+        "no_of_ratings": 19401,
+        "price": 60.78
+    },
+    {
+        "name": "Halo Infinite 2",
+        "main_category": "Racing",
+        "sub_category": "Off-Road",
+        "image": "https://example.com/game_241.jpg",
+        "ratings": 5.0,
+        "no_of_ratings": 12653,
+        "price": 58.21
+    },
+    {
+        "name": "Assassin's Creed Valhalla 7",
+        "main_category": "Shooter",
+        "sub_category": "First-Person",
+        "image": "https://example.com/game_242.jpg",
+        "ratings": 4.3,
+        "no_of_ratings": 22857,
+        "price": 49.75
+    },
+    {
+        "name": "Red Dead Redemption 2 10",
+        "main_category": "RPG",
+        "sub_category": "Open World",
+        "image": "https://example.com/game_243.jpg",
+        "ratings": 4.9,
+        "no_of_ratings": 40812,
+        "price": 61.2
+    },
+    {
+        "name": "Sekiro: Shadows Die Twice 2",
+        "main_category": "RPG",
+        "sub_category": "Open World",
+        "image": "https://example.com/game_244.jpg",
+        "ratings": 4.0,
+        "no_of_ratings": 12003,
+        "price": 32.63
+    },
+    {
+        "name": "Resident Evil 4 Remake 7",
+        "main_category": "Adventure",
+        "sub_category": "Exploration",
+        "image": "https://example.com/game_245.jpg",
+        "ratings": 4.8,
+        "no_of_ratings": 41017,
+        "price": 20.52
+    },
+    {
+        "name": "Red Dead Redemption 2 9",
+        "main_category": "Horror",
+        "sub_category": "Survival",
+        "image": "https://example.com/game_246.jpg",
+        "ratings": 3.7,
+        "no_of_ratings": 15625,
+        "price": 37.19
+    },
+    {
+        "name": "The Witcher 3: Wild Hunt 3",
+        "main_category": "RPG",
+        "sub_category": "Open World",
+        "image": "https://example.com/game_247.jpg",
+        "ratings": 4.6,
+        "no_of_ratings": 42536,
+        "price": 51.33
+    },
+    {
+        "name": "Final Fantasy XVI 6",
+        "main_category": "Action",
+        "sub_category": "Hack and Slash",
+        "image": "https://example.com/game_248.jpg",
+        "ratings": 4.9,
+        "no_of_ratings": 19020,
+        "price": 34.24
+    },
+    {
+        "name": "Dark Souls III 3",
+        "main_category": "Horror",
+        "sub_category": "Zombie",
+        "image": "https://example.com/game_249.jpg",
+        "ratings": 3.6,
+        "no_of_ratings": 4536,
+        "price": 24.64
+    },
+    {
+        "name": "Horizon Forbidden West 6",
+        "main_category": "Racing",
+        "sub_category": "Arcade",
+        "image": "https://example.com/game_250.jpg",
+        "ratings": 4.5,
+        "no_of_ratings": 14196,
+        "price": 49.95
+    },
+    {
+        "name": "Doom Eternal 8",
+        "main_category": "Horror",
+        "sub_category": "Psychological",
+        "image": "https://example.com/game_251.jpg",
+        "ratings": 4.8,
+        "no_of_ratings": 13191,
+        "price": 21.13
+    },
+    {
+        "name": "Assassin's Creed Valhalla 4",
+        "main_category": "Racing",
+        "sub_category": "Arcade",
+        "image": "https://example.com/game_252.jpg",
+        "ratings": 4.9,
+        "no_of_ratings": 40696,
+        "price": 51.65
+    },
+    {
+        "name": "GTA V 5",
+        "main_category": "RPG",
+        "sub_category": "Fantasy",
+        "image": "https://example.com/game_253.jpg",
+        "ratings": 3.9,
+        "no_of_ratings": 12009,
+        "price": 66.12
+    },
+    {
+        "name": "Resident Evil 4 Remake 6",
+        "main_category": "Horror",
+        "sub_category": "Survival",
+        "image": "https://example.com/game_254.jpg",
+        "ratings": 3.8,
+        "no_of_ratings": 21723,
+        "price": 53.88
+    },
+    {
+        "name": "God of War: Ragnarok 9",
+        "main_category": "Action",
+        "sub_category": "Adventure",
+        "image": "https://example.com/game_255.jpg",
+        "ratings": 3.7,
+        "no_of_ratings": 25753,
+        "price": 20.04
+    },
+    {
+        "name": "Elden Ring 4",
+        "main_category": "Adventure",
+        "sub_category": "Survival",
+        "image": "https://example.com/game_256.jpg",
+        "ratings": 4.2,
+        "no_of_ratings": 40730,
+        "price": 52.37
+    },
+    {
+        "name": "Dark Souls III 10",
+        "main_category": "RPG",
+        "sub_category": "Open World",
+        "image": "https://example.com/game_257.jpg",
+        "ratings": 4.6,
+        "no_of_ratings": 39276,
+        "price": 20.76
+    },
+    {
+        "name": "Star Wars Jedi: Survivor 1",
+        "main_category": "Racing",
+        "sub_category": "Arcade",
+        "image": "https://example.com/game_258.jpg",
+        "ratings": 4.5,
+        "no_of_ratings": 44543,
+        "price": 55.46
+    },
+    {
+        "name": "Final Fantasy XVI 1",
+        "main_category": "Shooter",
+        "sub_category": "Third-Person",
+        "image": "https://example.com/game_259.jpg",
+        "ratings": 5.0,
+        "no_of_ratings": 36593,
+        "price": 49.13
+    },
+    {
+        "name": "Halo Infinite 2",
+        "main_category": "Racing",
+        "sub_category": "Arcade",
+        "image": "https://example.com/game_260.jpg",
+        "ratings": 4.5,
+        "no_of_ratings": 43800,
+        "price": 67.38
+    },
+    {
+        "name": "The Witcher 3: Wild Hunt 1",
+        "main_category": "Adventure",
+        "sub_category": "Puzzle",
+        "image": "https://example.com/game_261.jpg",
+        "ratings": 4.2,
+        "no_of_ratings": 13002,
+        "price": 67.73
+    },
+    {
+        "name": "Dark Souls III 6",
+        "main_category": "Adventure",
+        "sub_category": "Puzzle",
+        "image": "https://example.com/game_262.jpg",
+        "ratings": 4.3,
+        "no_of_ratings": 9257,
+        "price": 69.73
+    },
+    {
+        "name": "Doom Eternal 6",
+        "main_category": "Shooter",
+        "sub_category": "Third-Person",
+        "image": "https://example.com/game_263.jpg",
+        "ratings": 4.6,
+        "no_of_ratings": 6925,
+        "price": 29.14
+    },
+    {
+        "name": "Dark Souls III 1",
+        "main_category": "Shooter",
+        "sub_category": "Third-Person",
+        "image": "https://example.com/game_264.jpg",
+        "ratings": 4.6,
+        "no_of_ratings": 42838,
+        "price": 26.48
+    },
+    {
+        "name": "Halo Infinite 4",
+        "main_category": "Shooter",
+        "sub_category": "Battle Royale",
+        "image": "https://example.com/game_265.jpg",
+        "ratings": 4.4,
+        "no_of_ratings": 11137,
+        "price": 25.39
+    },
+    {
+        "name": "Cyberpunk 2077 3",
+        "main_category": "Adventure",
+        "sub_category": "Survival",
+        "image": "https://example.com/game_266.jpg",
+        "ratings": 4.5,
+        "no_of_ratings": 3588,
+        "price": 66.05
+    },
+    {
+        "name": "Doom Eternal 2",
+        "main_category": "Action",
+        "sub_category": "Adventure",
+        "image": "https://example.com/game_267.jpg",
+        "ratings": 4.1,
+        "no_of_ratings": 36241,
+        "price": 30.19
+    },
+    {
+        "name": "Red Dead Redemption 2 4",
+        "main_category": "Adventure",
+        "sub_category": "Puzzle",
+        "image": "https://example.com/game_268.jpg",
+        "ratings": 3.7,
+        "no_of_ratings": 41122,
+        "price": 27.49
+    },
+    {
+        "name": "Halo Infinite 9",
+        "main_category": "Horror",
+        "sub_category": "Psychological",
+        "image": "https://example.com/game_269.jpg",
+        "ratings": 4.7,
+        "no_of_ratings": 48701,
+        "price": 37.58
+    },
+    {
+        "name": "Spider-Man: Miles Morales 1",
+        "main_category": "RPG",
+        "sub_category": "Sci-Fi",
+        "image": "https://example.com/game_270.jpg",
+        "ratings": 4.7,
+        "no_of_ratings": 16402,
+        "price": 38.3
+    },
+    {
+        "name": "God of War: Ragnarok 3",
+        "main_category": "RPG",
+        "sub_category": "Fantasy",
+        "image": "https://example.com/game_271.jpg",
+        "ratings": 3.6,
+        "no_of_ratings": 19271,
+        "price": 45.2
+    },
+    {
+        "name": "Forza Horizon 5 5",
+        "main_category": "Horror",
+        "sub_category": "Survival",
+        "image": "https://example.com/game_272.jpg",
+        "ratings": 4.9,
+        "no_of_ratings": 3943,
+        "price": 45.2
+    },
+    {
+        "name": "GTA V 1",
+        "main_category": "Racing",
+        "sub_category": "Simulation",
+        "image": "https://example.com/game_273.jpg",
+        "ratings": 3.6,
+        "no_of_ratings": 32353,
+        "price": 31.36
+    },
+    {
+        "name": "Horizon Forbidden West 4",
+        "main_category": "Racing",
+        "sub_category": "Arcade",
+        "image": "https://example.com/game_274.jpg",
+        "ratings": 4.3,
+        "no_of_ratings": 42158,
+        "price": 50.43
+    },
+    {
+        "name": "Halo Infinite 1",
+        "main_category": "Action",
+        "sub_category": "Fighting",
+        "image": "https://example.com/game_275.jpg",
+        "ratings": 4.9,
+        "no_of_ratings": 2767,
+        "price": 41.13
+    },
+    {
+        "name": "Forza Horizon 5 8",
+        "main_category": "Adventure",
+        "sub_category": "Puzzle",
+        "image": "https://example.com/game_276.jpg",
+        "ratings": 3.9,
+        "no_of_ratings": 24010,
+        "price": 46.8
+    },
+    {
+        "name": "Forza Horizon 5 5",
+        "main_category": "Horror",
+        "sub_category": "Zombie",
+        "image": "https://example.com/game_277.jpg",
+        "ratings": 4.4,
+        "no_of_ratings": 12073,
+        "price": 46.66
+    },
+    {
+        "name": "Forza Horizon 5 8",
+        "main_category": "RPG",
+        "sub_category": "Fantasy",
+        "image": "https://example.com/game_278.jpg",
+        "ratings": 3.7,
+        "no_of_ratings": 20553,
+        "price": 69.68
+    },
+    {
+        "name": "The Witcher 3: Wild Hunt 8",
+        "main_category": "RPG",
+        "sub_category": "Open World",
+        "image": "https://example.com/game_279.jpg",
+        "ratings": 4.0,
+        "no_of_ratings": 4531,
+        "price": 38.51
+    },
+    {
+        "name": "Star Wars Jedi: Survivor 8",
+        "main_category": "Horror",
+        "sub_category": "Zombie",
+        "image": "https://example.com/game_280.jpg",
+        "ratings": 4.2,
+        "no_of_ratings": 47185,
+        "price": 64.81
+    },
+    {
+        "name": "Sekiro: Shadows Die Twice 6",
+        "main_category": "RPG",
+        "sub_category": "Open World",
+        "image": "https://example.com/game_281.jpg",
+        "ratings": 3.7,
+        "no_of_ratings": 15352,
+        "price": 54.58
+    },
+    {
+        "name": "Doom Eternal 4",
+        "main_category": "RPG",
+        "sub_category": "Fantasy",
+        "image": "https://example.com/game_282.jpg",
+        "ratings": 4.3,
+        "no_of_ratings": 33738,
+        "price": 44.65
+    },
+    {
+        "name": "Assassin's Creed Valhalla 3",
+        "main_category": "Action",
+        "sub_category": "Adventure",
+        "image": "https://example.com/game_283.jpg",
+        "ratings": 4.2,
+        "no_of_ratings": 20461,
+        "price": 44.83
+    },
+    {
+        "name": "Bloodborne 9",
+        "main_category": "Racing",
+        "sub_category": "Arcade",
+        "image": "https://example.com/game_284.jpg",
+        "ratings": 4.8,
+        "no_of_ratings": 20555,
+        "price": 58.67
+    },
+    {
+        "name": "Forza Horizon 5 7",
+        "main_category": "Action",
+        "sub_category": "Adventure",
+        "image": "https://example.com/game_285.jpg",
+        "ratings": 4.4,
+        "no_of_ratings": 38323,
+        "price": 24.6
+    },
+    {
+        "name": "Elden Ring 2",
+        "main_category": "Horror",
+        "sub_category": "Zombie",
+        "image": "https://example.com/game_286.jpg",
+        "ratings": 3.8,
+        "no_of_ratings": 29271,
+        "price": 37.41
+    },
+    {
+        "name": "Assassin's Creed Valhalla 7",
+        "main_category": "Adventure",
+        "sub_category": "Exploration",
+        "image": "https://example.com/game_287.jpg",
+        "ratings": 4.3,
+        "no_of_ratings": 9900,
+        "price": 62.48
+    },
+    {
+        "name": "Spider-Man: Miles Morales 5",
+        "main_category": "Horror",
+        "sub_category": "Psychological",
+        "image": "https://example.com/game_288.jpg",
+        "ratings": 4.7,
+        "no_of_ratings": 35611,
+        "price": 64.5
+    },
+    {
+        "name": "Cyberpunk 2077 9",
+        "main_category": "Racing",
+        "sub_category": "Simulation",
+        "image": "https://example.com/game_289.jpg",
+        "ratings": 3.8,
+        "no_of_ratings": 36679,
+        "price": 52.84
+    },
+    {
+        "name": "Star Wars Jedi: Survivor 1",
+        "main_category": "Horror",
+        "sub_category": "Survival",
+        "image": "https://example.com/game_290.jpg",
+        "ratings": 4.0,
+        "no_of_ratings": 11626,
+        "price": 60.2
+    },
+    {
+        "name": "Final Fantasy XVI 9",
+        "main_category": "Horror",
+        "sub_category": "Survival",
+        "image": "https://example.com/game_291.jpg",
+        "ratings": 4.3,
+        "no_of_ratings": 43254,
+        "price": 28.72
+    },
+    {
+        "name": "Red Dead Redemption 2 2",
+        "main_category": "Action",
+        "sub_category": "Adventure",
+        "image": "https://example.com/game_292.jpg",
+        "ratings": 4.1,
+        "no_of_ratings": 19884,
+        "price": 52.61
+    },
+    {
+        "name": "GTA V 7",
+        "main_category": "RPG",
+        "sub_category": "Fantasy",
+        "image": "https://example.com/game_293.jpg",
+        "ratings": 4.1,
+        "no_of_ratings": 35806,
+        "price": 28.19
+    },
+    {
+        "name": "Halo Infinite 2",
+        "main_category": "Horror",
+        "sub_category": "Psychological",
+        "image": "https://example.com/game_294.jpg",
+        "ratings": 3.5,
+        "no_of_ratings": 49329,
+        "price": 61.47
+    },
+    {
+        "name": "Red Dead Redemption 2 9",
+        "main_category": "Racing",
+        "sub_category": "Off-Road",
+        "image": "https://example.com/game_295.jpg",
+        "ratings": 4.2,
+        "no_of_ratings": 36102,
+        "price": 63.85
+    },
+    {
+        "name": "Forza Horizon 5 1",
+        "main_category": "RPG",
+        "sub_category": "Sci-Fi",
+        "image": "https://example.com/game_296.jpg",
+        "ratings": 4.3,
+        "no_of_ratings": 21770,
+        "price": 62.67
+    },
+    {
+        "name": "GTA V 6",
+        "main_category": "Horror",
+        "sub_category": "Psychological",
+        "image": "https://example.com/game_297.jpg",
+        "ratings": 4.0,
+        "no_of_ratings": 3323,
+        "price": 33.72
+    },
+    {
+        "name": "Horizon Forbidden West 9",
+        "main_category": "Horror",
+        "sub_category": "Zombie",
+        "image": "https://example.com/game_298.jpg",
+        "ratings": 4.4,
+        "no_of_ratings": 26228,
+        "price": 25.42
+    },
+    {
+        "name": "Resident Evil 4 Remake 9",
+        "main_category": "Racing",
+        "sub_category": "Off-Road",
+        "image": "https://example.com/game_299.jpg",
+        "ratings": 5.0,
+        "no_of_ratings": 24543,
+        "price": 52.1
+    },
+    {
+        "name": "Star Wars Jedi: Survivor 7",
+        "main_category": "Racing",
+        "sub_category": "Simulation",
+        "image": "https://example.com/game_300.jpg",
+        "ratings": 4.9,
+        "no_of_ratings": 15457,
+        "price": 30.15
+    },
+    {
+        "name": "Elden Ring 8",
+        "main_category": "Adventure",
+        "sub_category": "Puzzle",
+        "image": "https://example.com/game_301.jpg",
+        "ratings": 4.4,
+        "no_of_ratings": 3939,
+        "price": 22.36
+    },
+    {
+        "name": "Dark Souls III 5",
+        "main_category": "Racing",
+        "sub_category": "Arcade",
+        "image": "https://example.com/game_302.jpg",
+        "ratings": 3.6,
+        "no_of_ratings": 37265,
+        "price": 53.26
+    },
+    {
+        "name": "Halo Infinite 3",
+        "main_category": "RPG",
+        "sub_category": "Open World",
+        "image": "https://example.com/game_303.jpg",
+        "ratings": 3.9,
+        "no_of_ratings": 18349,
+        "price": 53.81
+    },
+    {
+        "name": "Red Dead Redemption 2 7",
+        "main_category": "Racing",
+        "sub_category": "Off-Road",
+        "image": "https://example.com/game_304.jpg",
+        "ratings": 4.5,
+        "no_of_ratings": 24350,
+        "price": 64.61
+    },
+    {
+        "name": "Halo Infinite 5",
+        "main_category": "RPG",
+        "sub_category": "Fantasy",
+        "image": "https://example.com/game_305.jpg",
+        "ratings": 3.8,
+        "no_of_ratings": 14162,
+        "price": 41.66
+    },
+    {
+        "name": "Assassin's Creed Valhalla 9",
+        "main_category": "Horror",
+        "sub_category": "Zombie",
+        "image": "https://example.com/game_306.jpg",
+        "ratings": 4.3,
+        "no_of_ratings": 21805,
+        "price": 63.58
+    },
+    {
+        "name": "Spider-Man: Miles Morales 4",
+        "main_category": "Shooter",
+        "sub_category": "Third-Person",
+        "image": "https://example.com/game_307.jpg",
+        "ratings": 4.2,
+        "no_of_ratings": 21381,
+        "price": 34.15
+    },
+    {
+        "name": "Doom Eternal 5",
+        "main_category": "Action",
+        "sub_category": "Adventure",
+        "image": "https://example.com/game_308.jpg",
+        "ratings": 4.5,
+        "no_of_ratings": 14502,
+        "price": 26.15
+    },
+    {
+        "name": "Resident Evil 4 Remake 8",
+        "main_category": "Adventure",
+        "sub_category": "Exploration",
+        "image": "https://example.com/game_309.jpg",
+        "ratings": 4.4,
+        "no_of_ratings": 1686,
+        "price": 28.67
+    },
+    {
+        "name": "Red Dead Redemption 2 1",
+        "main_category": "Adventure",
+        "sub_category": "Puzzle",
+        "image": "https://example.com/game_310.jpg",
+        "ratings": 4.8,
+        "no_of_ratings": 46497,
+        "price": 43.57
+    },
+    {
+        "name": "Ghost of Tsushima 7",
+        "main_category": "RPG",
+        "sub_category": "Sci-Fi",
+        "image": "https://example.com/game_311.jpg",
+        "ratings": 3.7,
+        "no_of_ratings": 6613,
+        "price": 47.13
+    },
+    {
+        "name": "Cyberpunk 2077 8",
+        "main_category": "Horror",
+        "sub_category": "Survival",
+        "image": "https://example.com/game_312.jpg",
+        "ratings": 3.9,
+        "no_of_ratings": 2267,
+        "price": 37.23
+    },
+    {
+        "name": "Elden Ring 1",
+        "main_category": "RPG",
+        "sub_category": "Fantasy",
+        "image": "https://example.com/game_313.jpg",
+        "ratings": 4.0,
+        "no_of_ratings": 17405,
+        "price": 53.87
+    },
+    {
+        "name": "Halo Infinite 7",
+        "main_category": "Horror",
+        "sub_category": "Survival",
+        "image": "https://example.com/game_314.jpg",
+        "ratings": 3.7,
+        "no_of_ratings": 47338,
+        "price": 65.64
+    },
+    {
+        "name": "Resident Evil 4 Remake 9",
+        "main_category": "RPG",
+        "sub_category": "Open World",
+        "image": "https://example.com/game_315.jpg",
+        "ratings": 4.2,
+        "no_of_ratings": 38883,
+        "price": 61.34
+    },
+    {
+        "name": "The Legend of Zelda: Breath of the Wild 9",
+        "main_category": "Horror",
+        "sub_category": "Psychological",
+        "image": "https://example.com/game_316.jpg",
+        "ratings": 3.9,
+        "no_of_ratings": 4566,
+        "price": 61.85
+    },
+    {
+        "name": "Ghost of Tsushima 10",
+        "main_category": "RPG",
+        "sub_category": "Fantasy",
+        "image": "https://example.com/game_317.jpg",
+        "ratings": 4.4,
+        "no_of_ratings": 39460,
+        "price": 55.69
+    },
+    {
+        "name": "Sekiro: Shadows Die Twice 10",
+        "main_category": "Shooter",
+        "sub_category": "Third-Person",
+        "image": "https://example.com/game_318.jpg",
+        "ratings": 5.0,
+        "no_of_ratings": 18827,
+        "price": 22.63
+    },
+    {
+        "name": "Bloodborne 2",
+        "main_category": "RPG",
+        "sub_category": "Fantasy",
+        "image": "https://example.com/game_319.jpg",
+        "ratings": 3.5,
+        "no_of_ratings": 32574,
+        "price": 54.25
+    },
+    {
+        "name": "Elden Ring 6",
+        "main_category": "RPG",
+        "sub_category": "Open World",
+        "image": "https://example.com/game_320.jpg",
+        "ratings": 3.5,
+        "no_of_ratings": 10603,
+        "price": 69.83
+    },
+    {
+        "name": "Ghost of Tsushima 4",
+        "main_category": "Racing",
+        "sub_category": "Simulation",
+        "image": "https://example.com/game_321.jpg",
+        "ratings": 4.0,
+        "no_of_ratings": 42810,
+        "price": 36.7
+    },
+    {
+        "name": "Final Fantasy XVI 7",
+        "main_category": "Action",
+        "sub_category": "Fighting",
+        "image": "https://example.com/game_322.jpg",
+        "ratings": 3.6,
+        "no_of_ratings": 14650,
+        "price": 64.21
+    },
+    {
+        "name": "Cyberpunk 2077 1",
+        "main_category": "Racing",
+        "sub_category": "Simulation",
+        "image": "https://example.com/game_323.jpg",
+        "ratings": 4.9,
+        "no_of_ratings": 44295,
+        "price": 64.89
+    },
+    {
+        "name": "Doom Eternal 8",
+        "main_category": "RPG",
+        "sub_category": "Fantasy",
+        "image": "https://example.com/game_324.jpg",
+        "ratings": 4.2,
+        "no_of_ratings": 9197,
+        "price": 64.13
+    },
+    {
+        "name": "Halo Infinite 2",
+        "main_category": "Shooter",
+        "sub_category": "First-Person",
+        "image": "https://example.com/game_325.jpg",
+        "ratings": 4.0,
+        "no_of_ratings": 12220,
+        "price": 56.79
+    },
+    {
+        "name": "Final Fantasy XVI 5",
+        "main_category": "Racing",
+        "sub_category": "Simulation",
+        "image": "https://example.com/game_326.jpg",
+        "ratings": 4.9,
+        "no_of_ratings": 35651,
+        "price": 67.45
+    },
+    {
+        "name": "The Witcher 3: Wild Hunt 9",
+        "main_category": "Horror",
+        "sub_category": "Survival",
+        "image": "https://example.com/game_327.jpg",
+        "ratings": 3.5,
+        "no_of_ratings": 9174,
+        "price": 34.32
+    },
+    {
+        "name": "Spider-Man: Miles Morales 3",
+        "main_category": "Racing",
+        "sub_category": "Off-Road",
+        "image": "https://example.com/game_328.jpg",
+        "ratings": 4.7,
+        "no_of_ratings": 4042,
+        "price": 24.2
+    },
+    {
+        "name": "Halo Infinite 9",
+        "main_category": "RPG",
+        "sub_category": "Open World",
+        "image": "https://example.com/game_329.jpg",
+        "ratings": 4.6,
+        "no_of_ratings": 7801,
+        "price": 51.95
+    },
+    {
+        "name": "Sekiro: Shadows Die Twice 7",
+        "main_category": "Action",
+        "sub_category": "Fighting",
+        "image": "https://example.com/game_330.jpg",
+        "ratings": 3.6,
+        "no_of_ratings": 5148,
+        "price": 45.31
+    },
+    {
+        "name": "Final Fantasy XVI 2",
+        "main_category": "Shooter",
+        "sub_category": "Battle Royale",
+        "image": "https://example.com/game_331.jpg",
+        "ratings": 3.5,
+        "no_of_ratings": 21840,
+        "price": 24.28
+    },
+    {
+        "name": "Horizon Forbidden West 9",
+        "main_category": "Adventure",
+        "sub_category": "Puzzle",
+        "image": "https://example.com/game_332.jpg",
+        "ratings": 5.0,
+        "no_of_ratings": 22450,
+        "price": 29.33
+    },
+    {
+        "name": "The Legend of Zelda: Breath of the Wild 8",
+        "main_category": "RPG",
+        "sub_category": "Sci-Fi",
+        "image": "https://example.com/game_333.jpg",
+        "ratings": 4.8,
+        "no_of_ratings": 34994,
+        "price": 62.5
+    },
+    {
+        "name": "Ghost of Tsushima 5",
+        "main_category": "Shooter",
+        "sub_category": "First-Person",
+        "image": "https://example.com/game_334.jpg",
+        "ratings": 4.8,
+        "no_of_ratings": 21220,
+        "price": 60.89
+    },
+    {
+        "name": "The Witcher 3: Wild Hunt 7",
+        "main_category": "Racing",
+        "sub_category": "Off-Road",
+        "image": "https://example.com/game_335.jpg",
+        "ratings": 3.9,
+        "no_of_ratings": 46143,
+        "price": 41.96
+    },
+    {
+        "name": "Dark Souls III 4",
+        "main_category": "Adventure",
+        "sub_category": "Survival",
+        "image": "https://example.com/game_336.jpg",
+        "ratings": 4.4,
+        "no_of_ratings": 37640,
+        "price": 67.73
+    },
+    {
+        "name": "Spider-Man: Miles Morales 9",
+        "main_category": "Racing",
+        "sub_category": "Off-Road",
+        "image": "https://example.com/game_337.jpg",
+        "ratings": 4.3,
+        "no_of_ratings": 34307,
+        "price": 31.36
+    },
+    {
+        "name": "GTA V 1",
+        "main_category": "Racing",
+        "sub_category": "Arcade",
+        "image": "https://example.com/game_338.jpg",
+        "ratings": 4.9,
+        "no_of_ratings": 29865,
+        "price": 61.05
+    },
+    {
+        "name": "The Witcher 3: Wild Hunt 2",
+        "main_category": "Adventure",
+        "sub_category": "Puzzle",
+        "image": "https://example.com/game_339.jpg",
+        "ratings": 3.7,
+        "no_of_ratings": 36455,
+        "price": 69.93
+    },
+    {
+        "name": "Sekiro: Shadows Die Twice 1",
+        "main_category": "Horror",
+        "sub_category": "Survival",
+        "image": "https://example.com/game_340.jpg",
+        "ratings": 3.7,
+        "no_of_ratings": 18599,
+        "price": 58.39
+    },
+    {
+        "name": "Elden Ring 1",
+        "main_category": "Shooter",
+        "sub_category": "Battle Royale",
+        "image": "https://example.com/game_341.jpg",
+        "ratings": 3.7,
+        "no_of_ratings": 33190,
+        "price": 20.61
+    },
+    {
+        "name": "Dark Souls III 8",
+        "main_category": "Horror",
+        "sub_category": "Zombie",
+        "image": "https://example.com/game_342.jpg",
+        "ratings": 4.1,
+        "no_of_ratings": 6101,
+        "price": 25.46
+    },
+    {
+        "name": "Dark Souls III 2",
+        "main_category": "Adventure",
+        "sub_category": "Survival",
+        "image": "https://example.com/game_343.jpg",
+        "ratings": 4.1,
+        "no_of_ratings": 48842,
+        "price": 64.04
+    },
+    {
+        "name": "Spider-Man: Miles Morales 8",
+        "main_category": "Racing",
+        "sub_category": "Simulation",
+        "image": "https://example.com/game_344.jpg",
+        "ratings": 4.8,
+        "no_of_ratings": 30486,
+        "price": 44.51
+    },
+    {
+        "name": "Sekiro: Shadows Die Twice 5",
+        "main_category": "Shooter",
+        "sub_category": "Third-Person",
+        "image": "https://example.com/game_345.jpg",
+        "ratings": 4.0,
+        "no_of_ratings": 28656,
+        "price": 41.73
+    },
+    {
+        "name": "Horizon Forbidden West 2",
+        "main_category": "Shooter",
+        "sub_category": "Battle Royale",
+        "image": "https://example.com/game_346.jpg",
+        "ratings": 4.1,
+        "no_of_ratings": 12149,
+        "price": 41.23
+    },
+    {
+        "name": "The Legend of Zelda: Breath of the Wild 1",
+        "main_category": "Shooter",
+        "sub_category": "Battle Royale",
+        "image": "https://example.com/game_347.jpg",
+        "ratings": 3.9,
+        "no_of_ratings": 30867,
+        "price": 37.77
+    },
+    {
+        "name": "Halo Infinite 9",
+        "main_category": "Adventure",
+        "sub_category": "Survival",
+        "image": "https://example.com/game_348.jpg",
+        "ratings": 4.8,
+        "no_of_ratings": 22352,
+        "price": 27.39
+    },
+    {
+        "name": "Final Fantasy XVI 3",
+        "main_category": "Adventure",
+        "sub_category": "Puzzle",
+        "image": "https://example.com/game_349.jpg",
+        "ratings": 3.6,
+        "no_of_ratings": 2331,
+        "price": 26.69
+    },
+    {
+        "name": "Elden Ring 7",
+        "main_category": "RPG",
+        "sub_category": "Sci-Fi",
+        "image": "https://example.com/game_350.jpg",
+        "ratings": 4.4,
+        "no_of_ratings": 23191,
+        "price": 55.26
+    },
+    {
+        "name": "Ghost of Tsushima 5",
+        "main_category": "Shooter",
+        "sub_category": "Battle Royale",
+        "image": "https://example.com/game_351.jpg",
+        "ratings": 4.0,
+        "no_of_ratings": 41680,
+        "price": 44.26
+    },
+    {
+        "name": "Ghost of Tsushima 7",
+        "main_category": "Racing",
+        "sub_category": "Arcade",
+        "image": "https://example.com/game_352.jpg",
+        "ratings": 3.9,
+        "no_of_ratings": 41437,
+        "price": 67.4
+    },
+    {
+        "name": "Sekiro: Shadows Die Twice 6",
+        "main_category": "Shooter",
+        "sub_category": "First-Person",
+        "image": "https://example.com/game_353.jpg",
+        "ratings": 4.9,
+        "no_of_ratings": 25531,
+        "price": 31.11
+    },
+    {
+        "name": "Horizon Forbidden West 1",
+        "main_category": "Racing",
+        "sub_category": "Arcade",
+        "image": "https://example.com/game_354.jpg",
+        "ratings": 3.9,
+        "no_of_ratings": 22792,
+        "price": 57.57
+    },
+    {
+        "name": "Red Dead Redemption 2 10",
+        "main_category": "Racing",
+        "sub_category": "Simulation",
+        "image": "https://example.com/game_355.jpg",
+        "ratings": 3.8,
+        "no_of_ratings": 4799,
+        "price": 49.94
+    },
+    {
+        "name": "Doom Eternal 6",
+        "main_category": "Shooter",
+        "sub_category": "Third-Person",
+        "image": "https://example.com/game_356.jpg",
+        "ratings": 4.7,
+        "no_of_ratings": 20311,
+        "price": 47.19
+    },
+    {
+        "name": "Sekiro: Shadows Die Twice 4",
+        "main_category": "Shooter",
+        "sub_category": "First-Person",
+        "image": "https://example.com/game_357.jpg",
+        "ratings": 4.1,
+        "no_of_ratings": 16682,
+        "price": 50.8
+    },
+    {
+        "name": "Halo Infinite 3",
+        "main_category": "Adventure",
+        "sub_category": "Puzzle",
+        "image": "https://example.com/game_358.jpg",
+        "ratings": 4.5,
+        "no_of_ratings": 3801,
+        "price": 45.06
+    },
+    {
+        "name": "Dark Souls III 7",
+        "main_category": "Adventure",
+        "sub_category": "Puzzle",
+        "image": "https://example.com/game_359.jpg",
+        "ratings": 4.5,
+        "no_of_ratings": 25901,
+        "price": 53.57
+    },
+    {
+        "name": "Elden Ring 6",
+        "main_category": "RPG",
+        "sub_category": "Fantasy",
+        "image": "https://example.com/game_360.jpg",
+        "ratings": 3.8,
+        "no_of_ratings": 9395,
+        "price": 65.62
+    },
+    {
+        "name": "Resident Evil 4 Remake 3",
+        "main_category": "Horror",
+        "sub_category": "Psychological",
+        "image": "https://example.com/game_361.jpg",
+        "ratings": 3.8,
+        "no_of_ratings": 7198,
+        "price": 63.93
+    },
+    {
+        "name": "Horizon Forbidden West 10",
+        "main_category": "Shooter",
+        "sub_category": "Battle Royale",
+        "image": "https://example.com/game_362.jpg",
+        "ratings": 4.6,
+        "no_of_ratings": 5479,
+        "price": 59.42
+    },
+    {
+        "name": "Bloodborne 7",
+        "main_category": "RPG",
+        "sub_category": "Sci-Fi",
+        "image": "https://example.com/game_363.jpg",
+        "ratings": 3.9,
+        "no_of_ratings": 2080,
+        "price": 30.28
+    },
+    {
+        "name": "Final Fantasy XVI 1",
+        "main_category": "RPG",
+        "sub_category": "Sci-Fi",
+        "image": "https://example.com/game_364.jpg",
+        "ratings": 4.9,
+        "no_of_ratings": 39281,
+        "price": 50.09
+    },
+    {
+        "name": "Spider-Man: Miles Morales 5",
+        "main_category": "Adventure",
+        "sub_category": "Exploration",
+        "image": "https://example.com/game_365.jpg",
+        "ratings": 4.6,
+        "no_of_ratings": 44374,
+        "price": 29.74
+    },
+    {
+        "name": "Cyberpunk 2077 3",
+        "main_category": "Adventure",
+        "sub_category": "Survival",
+        "image": "https://example.com/game_366.jpg",
+        "ratings": 4.0,
+        "no_of_ratings": 7846,
+        "price": 61.19
+    },
+    {
+        "name": "Dark Souls III 7",
+        "main_category": "Racing",
+        "sub_category": "Simulation",
+        "image": "https://example.com/game_367.jpg",
+        "ratings": 4.1,
+        "no_of_ratings": 23196,
+        "price": 26.15
+    },
+    {
+        "name": "Resident Evil 4 Remake 3",
+        "main_category": "Adventure",
+        "sub_category": "Exploration",
+        "image": "https://example.com/game_368.jpg",
+        "ratings": 4.6,
+        "no_of_ratings": 15987,
+        "price": 46.63
+    },
+    {
+        "name": "Star Wars Jedi: Survivor 8",
+        "main_category": "RPG",
+        "sub_category": "Fantasy",
+        "image": "https://example.com/game_369.jpg",
+        "ratings": 3.9,
+        "no_of_ratings": 21233,
+        "price": 58.1
+    },
+    {
+        "name": "Horizon Forbidden West 9",
+        "main_category": "Action",
+        "sub_category": "Adventure",
+        "image": "https://example.com/game_370.jpg",
+        "ratings": 4.8,
+        "no_of_ratings": 17457,
+        "price": 53.11
+    },
+    {
+        "name": "GTA V 1",
+        "main_category": "Action",
+        "sub_category": "Adventure",
+        "image": "https://example.com/game_371.jpg",
+        "ratings": 4.2,
+        "no_of_ratings": 15058,
+        "price": 59.06
+    },
+    {
+        "name": "Assassin's Creed Valhalla 9",
+        "main_category": "Horror",
+        "sub_category": "Psychological",
+        "image": "https://example.com/game_372.jpg",
+        "ratings": 3.9,
+        "no_of_ratings": 29554,
+        "price": 31.0
+    },
+    {
+        "name": "Forza Horizon 5 8",
+        "main_category": "Shooter",
+        "sub_category": "Battle Royale",
+        "image": "https://example.com/game_373.jpg",
+        "ratings": 3.6,
+        "no_of_ratings": 4134,
+        "price": 47.76
+    },
+    {
+        "name": "Bloodborne 4",
+        "main_category": "Action",
+        "sub_category": "Adventure",
+        "image": "https://example.com/game_374.jpg",
+        "ratings": 3.8,
+        "no_of_ratings": 36013,
+        "price": 41.5
+    },
+    {
+        "name": "Dark Souls III 2",
+        "main_category": "Shooter",
+        "sub_category": "Battle Royale",
+        "image": "https://example.com/game_375.jpg",
+        "ratings": 4.2,
+        "no_of_ratings": 12929,
+        "price": 23.44
+    },
+    {
+        "name": "The Witcher 3: Wild Hunt 5",
+        "main_category": "Racing",
+        "sub_category": "Off-Road",
+        "image": "https://example.com/game_376.jpg",
+        "ratings": 4.6,
+        "no_of_ratings": 7101,
+        "price": 55.17
+    },
+    {
+        "name": "Ghost of Tsushima 5",
+        "main_category": "Action",
+        "sub_category": "Adventure",
+        "image": "https://example.com/game_377.jpg",
+        "ratings": 5.0,
+        "no_of_ratings": 46068,
+        "price": 50.87
+    },
+    {
+        "name": "Sekiro: Shadows Die Twice 8",
+        "main_category": "Action",
+        "sub_category": "Adventure",
+        "image": "https://example.com/game_378.jpg",
+        "ratings": 4.9,
+        "no_of_ratings": 10816,
+        "price": 51.05
+    },
+    {
+        "name": "Resident Evil 4 Remake 6",
+        "main_category": "Adventure",
+        "sub_category": "Survival",
+        "image": "https://example.com/game_379.jpg",
+        "ratings": 4.6,
+        "no_of_ratings": 7987,
+        "price": 33.59
+    },
+    {
+        "name": "Bloodborne 2",
+        "main_category": "Action",
+        "sub_category": "Adventure",
+        "image": "https://example.com/game_380.jpg",
+        "ratings": 4.0,
+        "no_of_ratings": 29374,
+        "price": 58.36
+    },
+    {
+        "name": "Forza Horizon 5 8",
+        "main_category": "Action",
+        "sub_category": "Fighting",
+        "image": "https://example.com/game_381.jpg",
+        "ratings": 4.7,
+        "no_of_ratings": 45831,
+        "price": 50.03
+    },
+    {
+        "name": "The Witcher 3: Wild Hunt 2",
+        "main_category": "Action",
+        "sub_category": "Fighting",
+        "image": "https://example.com/game_382.jpg",
+        "ratings": 3.7,
+        "no_of_ratings": 5203,
+        "price": 27.63
+    },
+    {
+        "name": "Final Fantasy XVI 5",
+        "main_category": "Shooter",
+        "sub_category": "First-Person",
+        "image": "https://example.com/game_383.jpg",
+        "ratings": 4.3,
+        "no_of_ratings": 12079,
+        "price": 53.49
+    },
+    {
+        "name": "The Legend of Zelda: Breath of the Wild 10",
+        "main_category": "Racing",
+        "sub_category": "Simulation",
+        "image": "https://example.com/game_384.jpg",
+        "ratings": 5.0,
+        "no_of_ratings": 46912,
+        "price": 43.5
+    },
+    {
+        "name": "Halo Infinite 6",
+        "main_category": "RPG",
+        "sub_category": "Sci-Fi",
+        "image": "https://example.com/game_385.jpg",
+        "ratings": 4.2,
+        "no_of_ratings": 31678,
+        "price": 35.97
+    },
+    {
+        "name": "Cyberpunk 2077 1",
+        "main_category": "RPG",
+        "sub_category": "Sci-Fi",
+        "image": "https://example.com/game_386.jpg",
+        "ratings": 4.0,
+        "no_of_ratings": 37122,
+        "price": 46.78
+    },
+    {
+        "name": "Cyberpunk 2077 1",
+        "main_category": "Racing",
+        "sub_category": "Simulation",
+        "image": "https://example.com/game_387.jpg",
+        "ratings": 4.9,
+        "no_of_ratings": 42772,
+        "price": 28.2
+    },
+    {
+        "name": "Forza Horizon 5 4",
+        "main_category": "Shooter",
+        "sub_category": "Battle Royale",
+        "image": "https://example.com/game_388.jpg",
+        "ratings": 4.4,
+        "no_of_ratings": 46980,
+        "price": 63.83
+    },
+    {
+        "name": "Assassin's Creed Valhalla 7",
+        "main_category": "Horror",
+        "sub_category": "Psychological",
+        "image": "https://example.com/game_389.jpg",
+        "ratings": 4.8,
+        "no_of_ratings": 35118,
+        "price": 47.15
+    },
+    {
+        "name": "The Legend of Zelda: Breath of the Wild 2",
+        "main_category": "Action",
+        "sub_category": "Adventure",
+        "image": "https://example.com/game_390.jpg",
+        "ratings": 4.9,
+        "no_of_ratings": 14772,
+        "price": 34.44
+    },
+    {
+        "name": "Horizon Forbidden West 3",
+        "main_category": "Action",
+        "sub_category": "Hack and Slash",
+        "image": "https://example.com/game_391.jpg",
+        "ratings": 4.1,
+        "no_of_ratings": 1254,
+        "price": 53.57
+    },
+    {
+        "name": "Cyberpunk 2077 3",
+        "main_category": "RPG",
+        "sub_category": "Open World",
+        "image": "https://example.com/game_392.jpg",
+        "ratings": 4.4,
+        "no_of_ratings": 18440,
+        "price": 64.36
+    },
+    {
+        "name": "Forza Horizon 5 10",
+        "main_category": "RPG",
+        "sub_category": "Fantasy",
+        "image": "https://example.com/game_393.jpg",
+        "ratings": 4.7,
+        "no_of_ratings": 4459,
+        "price": 58.41
+    },
+    {
+        "name": "Doom Eternal 3",
+        "main_category": "Racing",
+        "sub_category": "Arcade",
+        "image": "https://example.com/game_394.jpg",
+        "ratings": 4.8,
+        "no_of_ratings": 49277,
+        "price": 20.26
+    },
+    {
+        "name": "Doom Eternal 1",
+        "main_category": "Horror",
+        "sub_category": "Zombie",
+        "image": "https://example.com/game_395.jpg",
+        "ratings": 4.3,
+        "no_of_ratings": 20234,
+        "price": 65.74
+    },
+    {
+        "name": "God of War: Ragnarok 2",
+        "main_category": "Horror",
+        "sub_category": "Zombie",
+        "image": "https://example.com/game_396.jpg",
+        "ratings": 4.4,
+        "no_of_ratings": 8146,
+        "price": 43.78
+    },
+    {
+        "name": "Elden Ring 5",
+        "main_category": "Adventure",
+        "sub_category": "Survival",
+        "image": "https://example.com/game_397.jpg",
+        "ratings": 3.5,
+        "no_of_ratings": 3299,
+        "price": 35.33
+    },
+    {
+        "name": "Halo Infinite 4",
+        "main_category": "RPG",
+        "sub_category": "Open World",
+        "image": "https://example.com/game_398.jpg",
+        "ratings": 4.6,
+        "no_of_ratings": 41887,
+        "price": 51.17
+    },
+    {
+        "name": "The Legend of Zelda: Breath of the Wild 9",
+        "main_category": "RPG",
+        "sub_category": "Open World",
+        "image": "https://example.com/game_399.jpg",
+        "ratings": 4.9,
+        "no_of_ratings": 10176,
+        "price": 27.05
+    },
+    {
+        "name": "Doom Eternal 3",
+        "main_category": "Racing",
+        "sub_category": "Simulation",
+        "image": "https://example.com/game_400.jpg",
+        "ratings": 3.6,
+        "no_of_ratings": 43020,
+        "price": 67.51
+    },
+    {
+        "name": "Bloodborne 6",
+        "main_category": "Action",
+        "sub_category": "Hack and Slash",
+        "image": "https://example.com/game_401.jpg",
+        "ratings": 4.0,
+        "no_of_ratings": 26792,
+        "price": 45.49
+    },
+    {
+        "name": "The Witcher 3: Wild Hunt 2",
+        "main_category": "RPG",
+        "sub_category": "Sci-Fi",
+        "image": "https://example.com/game_402.jpg",
+        "ratings": 4.6,
+        "no_of_ratings": 48692,
+        "price": 64.24
+    },
+    {
+        "name": "Resident Evil 4 Remake 10",
+        "main_category": "Adventure",
+        "sub_category": "Survival",
+        "image": "https://example.com/game_403.jpg",
+        "ratings": 4.1,
+        "no_of_ratings": 9310,
+        "price": 61.79
+    },
+    {
+        "name": "Halo Infinite 5",
+        "main_category": "Action",
+        "sub_category": "Fighting",
+        "image": "https://example.com/game_404.jpg",
+        "ratings": 4.0,
+        "no_of_ratings": 36985,
+        "price": 65.21
+    },
+    {
+        "name": "God of War: Ragnarok 4",
+        "main_category": "Shooter",
+        "sub_category": "Third-Person",
+        "image": "https://example.com/game_405.jpg",
+        "ratings": 4.1,
+        "no_of_ratings": 1518,
+        "price": 28.57
+    },
+    {
+        "name": "Sekiro: Shadows Die Twice 6",
+        "main_category": "Horror",
+        "sub_category": "Zombie",
+        "image": "https://example.com/game_406.jpg",
+        "ratings": 4.5,
+        "no_of_ratings": 6599,
+        "price": 40.82
+    },
+    {
+        "name": "Cyberpunk 2077 10",
+        "main_category": "RPG",
+        "sub_category": "Fantasy",
+        "image": "https://example.com/game_407.jpg",
+        "ratings": 4.9,
+        "no_of_ratings": 36610,
+        "price": 62.82
+    },
+    {
+        "name": "Cyberpunk 2077 10",
+        "main_category": "RPG",
+        "sub_category": "Open World",
+        "image": "https://example.com/game_408.jpg",
+        "ratings": 5.0,
+        "no_of_ratings": 2806,
+        "price": 64.89
+    },
+    {
+        "name": "Assassin's Creed Valhalla 2",
+        "main_category": "Adventure",
+        "sub_category": "Puzzle",
+        "image": "https://example.com/game_409.jpg",
+        "ratings": 4.4,
+        "no_of_ratings": 28879,
+        "price": 68.18
+    },
+    {
+        "name": "Bloodborne 6",
+        "main_category": "Adventure",
+        "sub_category": "Puzzle",
+        "image": "https://example.com/game_410.jpg",
+        "ratings": 4.2,
+        "no_of_ratings": 2231,
+        "price": 56.19
+    },
+    {
+        "name": "Elden Ring 5",
+        "main_category": "Action",
+        "sub_category": "Adventure",
+        "image": "https://example.com/game_411.jpg",
+        "ratings": 4.0,
+        "no_of_ratings": 33802,
+        "price": 48.0
+    },
+    {
+        "name": "Bloodborne 7",
+        "main_category": "Adventure",
+        "sub_category": "Puzzle",
+        "image": "https://example.com/game_412.jpg",
+        "ratings": 4.9,
+        "no_of_ratings": 40205,
+        "price": 68.42
+    },
+    {
+        "name": "Bloodborne 3",
+        "main_category": "Racing",
+        "sub_category": "Off-Road",
+        "image": "https://example.com/game_413.jpg",
+        "ratings": 4.1,
+        "no_of_ratings": 7749,
+        "price": 63.81
+    },
+    {
+        "name": "Cyberpunk 2077 9",
+        "main_category": "Shooter",
+        "sub_category": "Battle Royale",
+        "image": "https://example.com/game_414.jpg",
+        "ratings": 4.7,
+        "no_of_ratings": 15116,
+        "price": 67.04
+    },
+    {
+        "name": "Elden Ring 1",
+        "main_category": "Adventure",
+        "sub_category": "Exploration",
+        "image": "https://example.com/game_415.jpg",
+        "ratings": 4.7,
+        "no_of_ratings": 45322,
+        "price": 59.48
+    },
+    {
+        "name": "Final Fantasy XVI 6",
+        "main_category": "Action",
+        "sub_category": "Adventure",
+        "image": "https://example.com/game_416.jpg",
+        "ratings": 3.5,
+        "no_of_ratings": 5458,
+        "price": 58.27
+    },
+    {
+        "name": "Assassin's Creed Valhalla 9",
+        "main_category": "Adventure",
+        "sub_category": "Puzzle",
+        "image": "https://example.com/game_417.jpg",
+        "ratings": 4.6,
+        "no_of_ratings": 39925,
+        "price": 48.32
+    },
+    {
+        "name": "Halo Infinite 10",
+        "main_category": "Racing",
+        "sub_category": "Simulation",
+        "image": "https://example.com/game_418.jpg",
+        "ratings": 4.5,
+        "no_of_ratings": 39360,
+        "price": 22.67
+    },
+    {
+        "name": "The Legend of Zelda: Breath of the Wild 6",
+        "main_category": "Shooter",
+        "sub_category": "First-Person",
+        "image": "https://example.com/game_419.jpg",
+        "ratings": 4.0,
+        "no_of_ratings": 35606,
+        "price": 46.71
+    },
+    {
+        "name": "Star Wars Jedi: Survivor 6",
+        "main_category": "Adventure",
+        "sub_category": "Survival",
+        "image": "https://example.com/game_420.jpg",
+        "ratings": 4.7,
+        "no_of_ratings": 35869,
+        "price": 52.39
+    },
+    {
+        "name": "Dark Souls III 2",
+        "main_category": "Racing",
+        "sub_category": "Arcade",
+        "image": "https://example.com/game_421.jpg",
+        "ratings": 4.4,
+        "no_of_ratings": 46034,
+        "price": 33.57
+    },
+    {
+        "name": "GTA V 1",
+        "main_category": "Shooter",
+        "sub_category": "First-Person",
+        "image": "https://example.com/game_422.jpg",
+        "ratings": 4.9,
+        "no_of_ratings": 31418,
+        "price": 20.18
+    },
+    {
+        "name": "Assassin's Creed Valhalla 10",
+        "main_category": "Adventure",
+        "sub_category": "Puzzle",
+        "image": "https://example.com/game_423.jpg",
+        "ratings": 3.5,
+        "no_of_ratings": 26218,
+        "price": 49.79
+    },
+    {
+        "name": "Final Fantasy XVI 5",
+        "main_category": "Action",
+        "sub_category": "Hack and Slash",
+        "image": "https://example.com/game_424.jpg",
+        "ratings": 4.1,
+        "no_of_ratings": 15613,
+        "price": 33.17
+    },
+    {
+        "name": "Sekiro: Shadows Die Twice 10",
+        "main_category": "RPG",
+        "sub_category": "Fantasy",
+        "image": "https://example.com/game_425.jpg",
+        "ratings": 4.5,
+        "no_of_ratings": 39752,
+        "price": 53.28
+    },
+    {
+        "name": "Dark Souls III 2",
+        "main_category": "RPG",
+        "sub_category": "Sci-Fi",
+        "image": "https://example.com/game_426.jpg",
+        "ratings": 3.7,
+        "no_of_ratings": 40757,
+        "price": 28.39
+    },
+    {
+        "name": "Horizon Forbidden West 5",
+        "main_category": "Shooter",
+        "sub_category": "Third-Person",
+        "image": "https://example.com/game_427.jpg",
+        "ratings": 3.9,
+        "no_of_ratings": 27581,
+        "price": 20.94
+    },
+    {
+        "name": "Final Fantasy XVI 10",
+        "main_category": "Horror",
+        "sub_category": "Psychological",
+        "image": "https://example.com/game_428.jpg",
+        "ratings": 4.1,
+        "no_of_ratings": 32180,
+        "price": 34.04
+    },
+    {
+        "name": "Star Wars Jedi: Survivor 4",
+        "main_category": "Shooter",
+        "sub_category": "First-Person",
+        "image": "https://example.com/game_429.jpg",
+        "ratings": 4.4,
+        "no_of_ratings": 45970,
+        "price": 45.12
+    },
+    {
+        "name": "Red Dead Redemption 2 2",
+        "main_category": "Horror",
+        "sub_category": "Zombie",
+        "image": "https://example.com/game_430.jpg",
+        "ratings": 4.5,
+        "no_of_ratings": 33114,
+        "price": 54.81
+    },
+    {
+        "name": "Sekiro: Shadows Die Twice 1",
+        "main_category": "Racing",
+        "sub_category": "Arcade",
+        "image": "https://example.com/game_431.jpg",
+        "ratings": 4.7,
+        "no_of_ratings": 9053,
+        "price": 25.09
+    },
+    {
+        "name": "Sekiro: Shadows Die Twice 6",
+        "main_category": "RPG",
+        "sub_category": "Sci-Fi",
+        "image": "https://example.com/game_432.jpg",
+        "ratings": 4.5,
+        "no_of_ratings": 11091,
+        "price": 44.89
+    },
+    {
+        "name": "Elden Ring 7",
+        "main_category": "RPG",
+        "sub_category": "Fantasy",
+        "image": "https://example.com/game_433.jpg",
+        "ratings": 4.1,
+        "no_of_ratings": 11982,
+        "price": 67.43
+    },
+    {
+        "name": "Elden Ring 2",
+        "main_category": "Racing",
+        "sub_category": "Simulation",
+        "image": "https://example.com/game_434.jpg",
+        "ratings": 3.7,
+        "no_of_ratings": 23607,
+        "price": 31.09
+    },
+    {
+        "name": "Halo Infinite 9",
+        "main_category": "Horror",
+        "sub_category": "Psychological",
+        "image": "https://example.com/game_435.jpg",
+        "ratings": 3.8,
+        "no_of_ratings": 29551,
+        "price": 27.55
+    },
+    {
+        "name": "Forza Horizon 5 8",
+        "main_category": "Adventure",
+        "sub_category": "Survival",
+        "image": "https://example.com/game_436.jpg",
+        "ratings": 4.7,
+        "no_of_ratings": 39976,
+        "price": 34.36
+    },
+    {
+        "name": "Sekiro: Shadows Die Twice 1",
+        "main_category": "RPG",
+        "sub_category": "Open World",
+        "image": "https://example.com/game_437.jpg",
+        "ratings": 4.1,
+        "no_of_ratings": 43198,
+        "price": 58.43
+    },
+    {
+        "name": "Forza Horizon 5 3",
+        "main_category": "Horror",
+        "sub_category": "Zombie",
+        "image": "https://example.com/game_438.jpg",
+        "ratings": 3.7,
+        "no_of_ratings": 27419,
+        "price": 36.3
+    },
+    {
+        "name": "Sekiro: Shadows Die Twice 2",
+        "main_category": "Adventure",
+        "sub_category": "Puzzle",
+        "image": "https://example.com/game_439.jpg",
+        "ratings": 3.7,
+        "no_of_ratings": 4794,
+        "price": 42.24
+    },
+    {
+        "name": "Star Wars Jedi: Survivor 10",
+        "main_category": "RPG",
+        "sub_category": "Open World",
+        "image": "https://example.com/game_440.jpg",
+        "ratings": 5.0,
+        "no_of_ratings": 37232,
+        "price": 44.91
+    },
+    {
+        "name": "Horizon Forbidden West 7",
+        "main_category": "RPG",
+        "sub_category": "Sci-Fi",
+        "image": "https://example.com/game_441.jpg",
+        "ratings": 3.6,
+        "no_of_ratings": 40365,
+        "price": 46.6
+    },
+    {
+        "name": "Cyberpunk 2077 1",
+        "main_category": "Action",
+        "sub_category": "Hack and Slash",
+        "image": "https://example.com/game_442.jpg",
+        "ratings": 4.8,
+        "no_of_ratings": 32262,
+        "price": 33.46
+    },
+    {
+        "name": "Resident Evil 4 Remake 1",
+        "main_category": "Horror",
+        "sub_category": "Zombie",
+        "image": "https://example.com/game_443.jpg",
+        "ratings": 3.7,
+        "no_of_ratings": 43101,
+        "price": 35.14
+    },
+    {
+        "name": "Bloodborne 10",
+        "main_category": "RPG",
+        "sub_category": "Open World",
+        "image": "https://example.com/game_444.jpg",
+        "ratings": 4.3,
+        "no_of_ratings": 29318,
+        "price": 44.61
+    },
+    {
+        "name": "Forza Horizon 5 8",
+        "main_category": "Racing",
+        "sub_category": "Simulation",
+        "image": "https://example.com/game_445.jpg",
+        "ratings": 4.0,
+        "no_of_ratings": 29740,
+        "price": 33.46
+    },
+    {
+        "name": "Resident Evil 4 Remake 6",
+        "main_category": "Shooter",
+        "sub_category": "First-Person",
+        "image": "https://example.com/game_446.jpg",
+        "ratings": 4.9,
+        "no_of_ratings": 42830,
+        "price": 56.11
+    },
+    {
+        "name": "The Legend of Zelda: Breath of the Wild 3",
+        "main_category": "Racing",
+        "sub_category": "Simulation",
+        "image": "https://example.com/game_447.jpg",
+        "ratings": 4.3,
+        "no_of_ratings": 27033,
+        "price": 57.07
+    },
+    {
+        "name": "Dark Souls III 10",
+        "main_category": "Action",
+        "sub_category": "Hack and Slash",
+        "image": "https://example.com/game_448.jpg",
+        "ratings": 4.2,
+        "no_of_ratings": 13259,
+        "price": 53.18
+    },
+    {
+        "name": "Elden Ring 5",
+        "main_category": "Racing",
+        "sub_category": "Simulation",
+        "image": "https://example.com/game_449.jpg",
+        "ratings": 4.0,
+        "no_of_ratings": 17830,
+        "price": 66.22
+    },
+    {
+        "name": "Red Dead Redemption 2 3",
+        "main_category": "RPG",
+        "sub_category": "Open World",
+        "image": "https://example.com/game_450.jpg",
+        "ratings": 4.1,
+        "no_of_ratings": 16031,
+        "price": 34.69
+    },
+    {
+        "name": "GTA V 4",
+        "main_category": "Adventure",
+        "sub_category": "Survival",
+        "image": "https://example.com/game_451.jpg",
+        "ratings": 3.7,
+        "no_of_ratings": 42229,
+        "price": 47.33
+    },
+    {
+        "name": "Halo Infinite 10",
+        "main_category": "Horror",
+        "sub_category": "Psychological",
+        "image": "https://example.com/game_452.jpg",
+        "ratings": 4.2,
+        "no_of_ratings": 15650,
+        "price": 44.38
+    },
+    {
+        "name": "Elden Ring 2",
+        "main_category": "Racing",
+        "sub_category": "Simulation",
+        "image": "https://example.com/game_453.jpg",
+        "ratings": 3.9,
+        "no_of_ratings": 20600,
+        "price": 27.46
+    },
+    {
+        "name": "Final Fantasy XVI 3",
+        "main_category": "Horror",
+        "sub_category": "Psychological",
+        "image": "https://example.com/game_454.jpg",
+        "ratings": 4.6,
+        "no_of_ratings": 40870,
+        "price": 62.58
+    },
+    {
+        "name": "Bloodborne 6",
+        "main_category": "Adventure",
+        "sub_category": "Puzzle",
+        "image": "https://example.com/game_455.jpg",
+        "ratings": 4.6,
+        "no_of_ratings": 36328,
+        "price": 42.69
+    },
+    {
+        "name": "Forza Horizon 5 4",
+        "main_category": "Shooter",
+        "sub_category": "First-Person",
+        "image": "https://example.com/game_456.jpg",
+        "ratings": 3.8,
+        "no_of_ratings": 49130,
+        "price": 63.74
+    },
+    {
+        "name": "Horizon Forbidden West 6",
+        "main_category": "Horror",
+        "sub_category": "Survival",
+        "image": "https://example.com/game_457.jpg",
+        "ratings": 4.5,
+        "no_of_ratings": 16189,
+        "price": 39.17
+    },
+    {
+        "name": "Forza Horizon 5 10",
+        "main_category": "Horror",
+        "sub_category": "Survival",
+        "image": "https://example.com/game_458.jpg",
+        "ratings": 5.0,
+        "no_of_ratings": 15225,
+        "price": 62.14
+    },
+    {
+        "name": "The Witcher 3: Wild Hunt 3",
+        "main_category": "Action",
+        "sub_category": "Fighting",
+        "image": "https://example.com/game_459.jpg",
+        "ratings": 4.9,
+        "no_of_ratings": 41904,
+        "price": 38.46
+    },
+    {
+        "name": "Sekiro: Shadows Die Twice 3",
+        "main_category": "Racing",
+        "sub_category": "Off-Road",
+        "image": "https://example.com/game_460.jpg",
+        "ratings": 4.1,
+        "no_of_ratings": 30642,
+        "price": 25.64
+    },
+    {
+        "name": "Halo Infinite 2",
+        "main_category": "Shooter",
+        "sub_category": "First-Person",
+        "image": "https://example.com/game_461.jpg",
+        "ratings": 4.2,
+        "no_of_ratings": 9443,
+        "price": 54.77
+    },
+    {
+        "name": "Assassin's Creed Valhalla 4",
+        "main_category": "Racing",
+        "sub_category": "Arcade",
+        "image": "https://example.com/game_462.jpg",
+        "ratings": 4.7,
+        "no_of_ratings": 44507,
+        "price": 58.4
+    },
+    {
+        "name": "Bloodborne 7",
+        "main_category": "Shooter",
+        "sub_category": "Third-Person",
+        "image": "https://example.com/game_463.jpg",
+        "ratings": 4.7,
+        "no_of_ratings": 14323,
+        "price": 48.18
+    },
+    {
+        "name": "Halo Infinite 3",
+        "main_category": "Shooter",
+        "sub_category": "Battle Royale",
+        "image": "https://example.com/game_464.jpg",
+        "ratings": 3.9,
+        "no_of_ratings": 16276,
+        "price": 57.76
+    },
+    {
+        "name": "Resident Evil 4 Remake 4",
+        "main_category": "RPG",
+        "sub_category": "Fantasy",
+        "image": "https://example.com/game_465.jpg",
+        "ratings": 3.6,
+        "no_of_ratings": 42991,
+        "price": 65.56
+    },
+    {
+        "name": "Forza Horizon 5 9",
+        "main_category": "RPG",
+        "sub_category": "Sci-Fi",
+        "image": "https://example.com/game_466.jpg",
+        "ratings": 4.5,
+        "no_of_ratings": 13371,
+        "price": 58.33
+    },
+    {
+        "name": "Dark Souls III 3",
+        "main_category": "Action",
+        "sub_category": "Adventure",
+        "image": "https://example.com/game_467.jpg",
+        "ratings": 5.0,
+        "no_of_ratings": 21503,
+        "price": 23.04
+    },
+    {
+        "name": "The Witcher 3: Wild Hunt 1",
+        "main_category": "Shooter",
+        "sub_category": "First-Person",
+        "image": "https://example.com/game_468.jpg",
+        "ratings": 4.3,
+        "no_of_ratings": 27934,
+        "price": 31.58
+    },
+    {
+        "name": "Horizon Forbidden West 3",
+        "main_category": "Horror",
+        "sub_category": "Psychological",
+        "image": "https://example.com/game_469.jpg",
+        "ratings": 4.0,
+        "no_of_ratings": 21021,
+        "price": 47.84
+    },
+    {
+        "name": "Forza Horizon 5 7",
+        "main_category": "Shooter",
+        "sub_category": "Battle Royale",
+        "image": "https://example.com/game_470.jpg",
+        "ratings": 4.0,
+        "no_of_ratings": 34910,
+        "price": 64.92
+    },
+    {
+        "name": "Final Fantasy XVI 5",
+        "main_category": "Shooter",
+        "sub_category": "Battle Royale",
+        "image": "https://example.com/game_471.jpg",
+        "ratings": 4.2,
+        "no_of_ratings": 33114,
+        "price": 27.9
+    },
+    {
+        "name": "GTA V 9",
+        "main_category": "Racing",
+        "sub_category": "Simulation",
+        "image": "https://example.com/game_472.jpg",
+        "ratings": 4.2,
+        "no_of_ratings": 13614,
+        "price": 28.65
+    },
+    {
+        "name": "GTA V 8",
+        "main_category": "Action",
+        "sub_category": "Fighting",
+        "image": "https://example.com/game_473.jpg",
+        "ratings": 4.8,
+        "no_of_ratings": 38860,
+        "price": 60.03
+    },
+    {
+        "name": "Elden Ring 1",
+        "main_category": "Horror",
+        "sub_category": "Zombie",
+        "image": "https://example.com/game_474.jpg",
+        "ratings": 4.4,
+        "no_of_ratings": 43758,
+        "price": 35.33
+    },
+    {
+        "name": "Cyberpunk 2077 9",
+        "main_category": "Action",
+        "sub_category": "Fighting",
+        "image": "https://example.com/game_475.jpg",
+        "ratings": 4.9,
+        "no_of_ratings": 28829,
+        "price": 58.05
+    },
+    {
+        "name": "Final Fantasy XVI 9",
+        "main_category": "Action",
+        "sub_category": "Adventure",
+        "image": "https://example.com/game_476.jpg",
+        "ratings": 3.8,
+        "no_of_ratings": 1924,
+        "price": 68.88
+    },
+    {
+        "name": "Resident Evil 4 Remake 8",
+        "main_category": "Racing",
+        "sub_category": "Off-Road",
+        "image": "https://example.com/game_477.jpg",
+        "ratings": 4.6,
+        "no_of_ratings": 7486,
+        "price": 41.65
+    },
+    {
+        "name": "Resident Evil 4 Remake 5",
+        "main_category": "Racing",
+        "sub_category": "Off-Road",
+        "image": "https://example.com/game_478.jpg",
+        "ratings": 4.0,
+        "no_of_ratings": 40799,
+        "price": 69.73
+    },
+    {
+        "name": "The Legend of Zelda: Breath of the Wild 10",
+        "main_category": "RPG",
+        "sub_category": "Open World",
+        "image": "https://example.com/game_479.jpg",
+        "ratings": 3.9,
+        "no_of_ratings": 32303,
+        "price": 42.61
+    },
+    {
+        "name": "Cyberpunk 2077 10",
+        "main_category": "Horror",
+        "sub_category": "Survival",
+        "image": "https://example.com/game_480.jpg",
+        "ratings": 4.5,
+        "no_of_ratings": 28515,
+        "price": 42.94
+    },
+    {
+        "name": "Assassin's Creed Valhalla 10",
+        "main_category": "Racing",
+        "sub_category": "Off-Road",
+        "image": "https://example.com/game_481.jpg",
+        "ratings": 3.9,
+        "no_of_ratings": 26511,
+        "price": 38.1
+    },
+    {
+        "name": "Ghost of Tsushima 2",
+        "main_category": "Racing",
+        "sub_category": "Off-Road",
+        "image": "https://example.com/game_482.jpg",
+        "ratings": 4.4,
+        "no_of_ratings": 44245,
+        "price": 21.81
+    },
+    {
+        "name": "Elden Ring 6",
+        "main_category": "Horror",
+        "sub_category": "Zombie",
+        "image": "https://example.com/game_483.jpg",
+        "ratings": 4.6,
+        "no_of_ratings": 1214,
+        "price": 47.09
+    },
+    {
+        "name": "Red Dead Redemption 2 9",
+        "main_category": "Horror",
+        "sub_category": "Zombie",
+        "image": "https://example.com/game_484.jpg",
+        "ratings": 4.1,
+        "no_of_ratings": 21393,
+        "price": 34.92
+    },
+    {
+        "name": "Doom Eternal 2",
+        "main_category": "Action",
+        "sub_category": "Hack and Slash",
+        "image": "https://example.com/game_485.jpg",
+        "ratings": 4.5,
+        "no_of_ratings": 1970,
+        "price": 68.78
+    },
+    {
+        "name": "Forza Horizon 5 3",
+        "main_category": "Action",
+        "sub_category": "Fighting",
+        "image": "https://example.com/game_486.jpg",
+        "ratings": 4.1,
+        "no_of_ratings": 4327,
+        "price": 31.47
+    },
+    {
+        "name": "Doom Eternal 1",
+        "main_category": "Adventure",
+        "sub_category": "Exploration",
+        "image": "https://example.com/game_487.jpg",
+        "ratings": 3.8,
+        "no_of_ratings": 24155,
+        "price": 51.92
+    },
+    {
+        "name": "Assassin's Creed Valhalla 1",
+        "main_category": "Horror",
+        "sub_category": "Survival",
+        "image": "https://example.com/game_488.jpg",
+        "ratings": 3.7,
+        "no_of_ratings": 26564,
+        "price": 65.2
+    },
+    {
+        "name": "Spider-Man: Miles Morales 2",
+        "main_category": "RPG",
+        "sub_category": "Sci-Fi",
+        "image": "https://example.com/game_489.jpg",
+        "ratings": 4.3,
+        "no_of_ratings": 7889,
+        "price": 53.1
+    },
+    {
+        "name": "Final Fantasy XVI 5",
+        "main_category": "Adventure",
+        "sub_category": "Puzzle",
+        "image": "https://example.com/game_490.jpg",
+        "ratings": 3.9,
+        "no_of_ratings": 5765,
+        "price": 38.85
+    },
+    {
+        "name": "Ghost of Tsushima 6",
+        "main_category": "Racing",
+        "sub_category": "Off-Road",
+        "image": "https://example.com/game_491.jpg",
+        "ratings": 3.9,
+        "no_of_ratings": 33032,
+        "price": 53.35
+    },
+    {
+        "name": "Forza Horizon 5 4",
+        "main_category": "Horror",
+        "sub_category": "Psychological",
+        "image": "https://example.com/game_492.jpg",
+        "ratings": 3.9,
+        "no_of_ratings": 22581,
+        "price": 36.91
+    },
+    {
+        "name": "Elden Ring 8",
+        "main_category": "Adventure",
+        "sub_category": "Survival",
+        "image": "https://example.com/game_493.jpg",
+        "ratings": 3.8,
+        "no_of_ratings": 39521,
+        "price": 33.59
+    },
+    {
+        "name": "Bloodborne 2",
+        "main_category": "Racing",
+        "sub_category": "Arcade",
+        "image": "https://example.com/game_494.jpg",
+        "ratings": 3.6,
+        "no_of_ratings": 21246,
+        "price": 50.29
+    },
+    {
+        "name": "Elden Ring 7",
+        "main_category": "Racing",
+        "sub_category": "Off-Road",
+        "image": "https://example.com/game_495.jpg",
+        "ratings": 3.7,
+        "no_of_ratings": 12888,
+        "price": 50.27
+    },
+    {
+        "name": "Ghost of Tsushima 1",
+        "main_category": "Adventure",
+        "sub_category": "Exploration",
+        "image": "https://example.com/game_496.jpg",
+        "ratings": 4.8,
+        "no_of_ratings": 12386,
+        "price": 61.92
+    },
+    {
+        "name": "Elden Ring 3",
+        "main_category": "Shooter",
+        "sub_category": "Third-Person",
+        "image": "https://example.com/game_497.jpg",
+        "ratings": 4.4,
+        "no_of_ratings": 4282,
+        "price": 56.73
+    },
+    {
+        "name": "Forza Horizon 5 7",
+        "main_category": "Action",
+        "sub_category": "Hack and Slash",
+        "image": "https://example.com/game_498.jpg",
+        "ratings": 3.6,
+        "no_of_ratings": 2223,
+        "price": 64.72
+    },
+    {
+        "name": "Dark Souls III 9",
+        "main_category": "RPG",
+        "sub_category": "Open World",
+        "image": "https://example.com/game_499.jpg",
+        "ratings": 4.2,
+        "no_of_ratings": 41229,
+        "price": 59.9
+    }
+]
